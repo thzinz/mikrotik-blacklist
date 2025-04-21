@@ -22,15 +22,15 @@ The content is suitable for use with content filtering systems such as MikroTik 
   ✅ Format: `/ip firewall address-list add list=GR_BL address=1.2.3.4`   
 
 ### 🛡️ bds_atif.rsc 
-  🇬🇷 Κακόβουλες IP από Binary Defense Systems (ATIF)  – έτοιμες για MikroTik
+  🇬🇷 Κακόβουλες IP από Binary Defense Systems (ATIF)  – έτοιμες για MikroTik  
   🇬🇧 Malicious IPs from Binary Defense Systems – ATIF – MikroTik-ready  
 
 ### 🚨 et_block.rsc   
-  🇬🇷 Emerging Threats IPs – scanners, botnets, malware  – έτοιμες για MikroTik
+  🇬🇷 Emerging Threats IPs – scanners, botnets, malware  – έτοιμες για MikroTik  
   🇬🇧 Threat IPs from Emerging Threats project – MikroTik-ready   
 
 ### 📛 spamhaus.rsc   
-  🇬🇷 Spamhaus IP blacklist – έτοιμες για MikroTik
+  🇬🇷 Spamhaus IP blacklist – έτοιμες για MikroTik  
   🇬🇧 Spamhaus IP blacklist – MikroTik-ready  
 
 ### 🧿 trackers-with-ip.txt   
