@@ -11,7 +11,7 @@ The content is suitable for use with content filtering systems such as MikroTik 
 
 ## 📁 Περιεχόμενα / Contents
 
-📄 eeep.txt 
+📄 eeep.txt
   🇬🇷 Περιλαμβάνει domains που σχετίζονται με στοιχήματα και καζίνο – Ε.Ε.Ε.Π.  
   🇬🇧 Contains gambling-related domains – from Hellenic Gaming Commission (HGC / Ε.Ε.Ε.Π.)  
   ✅ Format: `0.0.0.0 casino-example.com`
@@ -25,11 +25,11 @@ The content is suitable for use with content filtering systems such as MikroTik 
   🇬🇷 Κακόβουλες IP από Binary Defense Systems (ATIF)  
   🇬🇧 Malicious IPs from Binary Defense Systems – ATIF
 
-🚨 et_block.rsc  
+🚨 et_block.rsc
   🇬🇷 Emerging Threats IPs – scanners, botnets, malware  
   🇬🇧 Threat IPs from Emerging Threats project
 
-📛 spamhaus.rsc  
+📛 spamhaus.rsc
   🇬🇷 Συνδυασμός Spamhaus DROP/EDROP με Emerging Threats  
   🇬🇧 Spamhaus + Emerging Threats combined IP blacklist
 
