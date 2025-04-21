@@ -63,3 +63,10 @@ The end user is solely responsible for lawful and compliant implementation.
 
 ## 📅 Τελευταία ενημέρωση / Last updated:
 > (Χειροκίνητα ή με GitHub Actions / Manual or via GitHub Actions)
+
+
+---
+
+## ☕ Στήριξέ με / Support my work
+
+[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=pournarasaa&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/pournarasaa)
