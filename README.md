@@ -11,17 +11,17 @@ The content is suitable for use with content filtering systems such as MikroTik 
 
 ## 📁 Περιεχόμενα / Contents
 
-📄 eeep.txt   
+**📄 eeep.txt  ** 
   🇬🇷 Περιλαμβάνει domains που σχετίζονται με στοιχήματα και καζίνο – Ε.Ε.Ε.Π.  
   🇬🇧 Contains gambling-related domains – from Hellenic Gaming Commission (HGC / Ε.Ε.Ε.Π.)  
   ✅ Format: `0.0.0.0 casino-example.com`   
 
-🧱 gr_bl.rsc   
+**🧱 gr_bl.rsc **  
   🇬🇷 Ελληνικές IP που παραβιάζουν πνευματικά δικαιώματα – έτοιμες για MikroTik  
   🇬🇧 Greek copyright-infringing IPs – MikroTik-ready  
   ✅ Format: `/ip firewall address-list add list=GR_BL address=1.2.3.4`   
 
-🛡️ bds_atif.rsc   
+**🛡️ bds_atif.rsc **
   🇬🇷 Κακόβουλες IP από Binary Defense Systems (ATIF)  
   🇬🇧 Malicious IPs from Binary Defense Systems – ATIF
 
