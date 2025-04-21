@@ -1,10 +1,7 @@
-0.0.0.0 "ΟΝΟΜΑ ΧΩΡΟΥ
-0.0.0.0 "ΗΜ
 0.0.0.0 10bet.com
 0.0.0.0 32red.com
 0.0.0.0 5dimes.eu
 0.0.0.0 7sultans.eu
-0.0.0.0 "65
 0.0.0.0 770.com
 0.0.0.0 aladdinsgoldcasino.com
 0.0.0.0 alljackpotscasino.com
@@ -29,20 +26,16 @@
 0.0.0.0 dublinbet.com
 0.0.0.0 dashcasino.com
 0.0.0.0 guruplay.com
-0.0.0.0 "65
 0.0.0.0 grandmondial.eu
 0.0.0.0 goldenreefcasino.com
 0.0.0.0 intertops.eu
-0.0.0.0 "65
 0.0.0.0 iasbet.com
 0.0.0.0 incasino.gr
 0.0.0.0 jackpotcity.com
 0.0.0.0 livecasinodirect.com
 0.0.0.0 luckylivecasino.com
 0.0.0.0 smartlivegaming.com
-0.0.0.0 "65
 0.0.0.0 luckynuggetcasino.com
-0.0.0.0 "65
 0.0.0.0 mummysgold.com
 0.0.0.0 maplecasino.ca
 0.0.0.0 manhattanslots.com
@@ -59,9 +52,7 @@
 0.0.0.0 rubyfortune.com
 0.0.0.0 rivernilecasino.net
 0.0.0.0 roxypalace.com
-0.0.0.0 "65
 0.0.0.0 riverbellecasino.com
-0.0.0.0 "65
 0.0.0.0 royalvegascasino.com
 0.0.0.0 slotsoasis.com
 0.0.0.0 uwin.com
@@ -76,7 +67,6 @@
 0.0.0.0 thegreek.com
 0.0.0.0 unibet.com
 0.0.0.0 vistabet.com
-0.0.0.0 "65
 0.0.0.0 vsjack.com
 0.0.0.0 villento.com
 0.0.0.0 vegascountrycasino.com
@@ -101,18 +91,14 @@
 0.0.0.0 casinoaction.com
 0.0.0.0 casino-classic.eu
 0.0.0.0 gamingclub.com
-0.0.0.0 "65
 0.0.0.0 vegaspalmscasino.com
 0.0.0.0 zodiaccasino.com
 0.0.0.0 challengecasino.com
 0.0.0.0 clubeurocasino.com
 0.0.0.0 crowneurope.com
-0.0.0.0 "65
 0.0.0.0 casinoshare.eu
 0.0.0.0 mansioncasino.com
-0.0.0.0 "65
 0.0.0.0 winner.com
-0.0.0.0 "65
 0.0.0.0 casino.com
 0.0.0.0 cityclubcasino.com
 0.0.0.0 goldenpalace.com
@@ -132,12 +118,10 @@
 0.0.0.0 flamingoclub.com
 0.0.0.0 aztecrichescasino.eu
 0.0.0.0 casinosplendido.com
-0.0.0.0 "65
 0.0.0.0 hollywoodpoker.com
 0.0.0.0 everestcasino.com
 0.0.0.0 grandonline.com
 0.0.0.0 lasvegasusa.eu
-0.0.0.0 "65
 0.0.0.0 luckyemperorcasino.com
 0.0.0.0 musichallcasino.eu
 0.0.0.0 onlinecasinocentral.com
@@ -145,17 +129,13 @@
 0.0.0.0 slotsvillage.ag
 0.0.0.0 strikeitluckycasino.com
 0.0.0.0 sunpalacecasino.eu
-0.0.0.0 "65
 0.0.0.0 vegas7casino.com
 0.0.0.0 vegascasinoonline.eu
-0.0.0.0 "65
 0.0.0.0 virtualcitycasino.eu
 0.0.0.0 winadaycasino.com
 0.0.0.0 casinolux.com
 0.0.0.0 loosecannonholdem.com
 0.0.0.0 pokerheaven.com
-0.0.0.0 
-0.0.0.0 "65
 0.0.0.0 pokertime.eu
 0.0.0.0 sunpoker.com
 0.0.0.0 coolhandpoker.com
@@ -164,9 +144,7 @@
 0.0.0.0 betonline.ag
 0.0.0.0 bingohall.ag
 0.0.0.0 cyberbingo.com
-0.0.0.0 "65
 0.0.0.0 bingosky.com
-0.0.0.0 "65
 0.0.0.0 vicsbingo.ag
 0.0.0.0 melinabingo.com
 0.0.0.0 gigglebingo.ca
@@ -179,14 +157,11 @@
 0.0.0.0 cheekybingo.com
 0.0.0.0 jetbingo.com
 0.0.0.0 mainstreetbingo.com
-0.0.0.0 "65
 0.0.0.0 bingocafe.com
 0.0.0.0 hopa.com
-0.0.0.0 "65
 0.0.0.0 cashmillbingo.com
 0.0.0.0 grandduke.com
 0.0.0.0 kingneptunescasino.eu
-0.0.0.0 "65
 0.0.0.0 121casino.com
 0.0.0.0 138sungame.com
 0.0.0.0 1bet.com
@@ -197,7 +172,6 @@
 0.0.0.0 7red.com
 0.0.0.0 7reels.com
 0.0.0.0 7regal.com
-0.0.0.0 "65
 0.0.0.0 7spins.com
 0.0.0.0 99slotmachines.com
 0.0.0.0 acelivecasino.com
@@ -213,7 +187,6 @@
 0.0.0.0 betphoenixcasino.com
 0.0.0.0 betspace.com
 0.0.0.0 bulldog777.com
-0.0.0.0 "65
 0.0.0.0 buzzluck.com
 0.0.0.0 casinodelrio.com
 0.0.0.0 betcasinograndbay.com
@@ -241,7 +214,6 @@
 0.0.0.0 clubplayercasino.com
 0.0.0.0 clubsacasino.com
 0.0.0.0 club777.com
-0.0.0.0 "65
 0.0.0.0 coolcat-casino.com
 0.0.0.0 cosmikcasino.com
 0.0.0.0 crazyluckcasino.com
@@ -259,7 +231,6 @@
 0.0.0.0 freespincasino.eu
 0.0.0.0 futuriti.com
 0.0.0.0 galacasino.com
-0.0.0.0 "65
 0.0.0.0 globallivecasino.com
 0.0.0.0 gofishcasino.com
 0.0.0.0 goldencherry.com
@@ -281,12 +252,10 @@
 0.0.0.0 betjupiterclub.com
 0.0.0.0 justbet.cx
 0.0.0.0 karamba.com
-0.0.0.0 "65
 0.0.0.0 kerchingcasino.com
 0.0.0.0 larivieracasino.com
 0.0.0.0 betlakepalace.com
 0.0.0.0 lesacasino.com
-0.0.0.0 "65
 0.0.0.0 libertyslots.eu
 0.0.0.0 betlm.eu
 0.0.0.0 lionslots.com
@@ -325,14 +294,12 @@
 0.0.0.0 romecasino.com
 0.0.0.0 royalacecasino.com
 0.0.0.0 rubyroyal.com
-0.0.0.0 "65
 0.0.0.0 rubyslots.com
 0.0.0.0 sklots.com
 0.0.0.0 skykingscasino.com
 0.0.0.0 slotmadness.com
 0.0.0.0 slotmagix.com
 0.0.0.0 slotpowers.com
-0.0.0.0 "65
 0.0.0.0 slotastic.com
 0.0.0.0 slotsjungle.im
 0.0.0.0 slotocash.im
@@ -411,7 +378,6 @@
 0.0.0.0 skill7.com
 0.0.0.0 stargames.com
 0.0.0.0 sunmaker.com
-0.0.0.0 150
 0.0.0.0 verusbet.com
 0.0.0.0 kingplayer.com
 0.0.0.0 7epta7.gr
@@ -419,7 +385,6 @@
 0.0.0.0 unibet-2.com
 0.0.0.0 betadonis22.com
 0.0.0.0 mb24.com
-0.0.0.0 150
 0.0.0.0 scratchmania.com
 0.0.0.0 netoplay.com
 0.0.0.0 thelotter.com
@@ -449,7 +414,6 @@
 0.0.0.0 smart-winners.com
 0.0.0.0 sun7lottery.com
 0.0.0.0 eurolotto.com
-0.0.0.0 198
 0.0.0.0 lotteryshop.com
 0.0.0.0 thespinroom.com
 0.0.0.0 mcbookie.com
@@ -464,16 +428,13 @@
 0.0.0.0 ace2three.com
 0.0.0.0 848play.com
 0.0.0.0 abcbingo.co.uk
-0.0.0.0 
 0.0.0.0 biggestbingo.com
 0.0.0.0 ignitebingo.com
-0.0.0.0 "206
 0.0.0.0 goldfishkacasino.com
 0.0.0.0 royalvegas.com
 0.0.0.0 unibet-4.com
 0.0.0.0 redflushcasino.com
 0.0.0.0 winner.com
-0.0.0.0 "206
 0.0.0.0 euromania-it.com
 0.0.0.0 harrahscasino.com
 0.0.0.0 kazino.com
@@ -485,7 +446,6 @@
 0.0.0.0 jackpotcitycasino.com
 0.0.0.0 pin1111.com
 0.0.0.0 thrills.com
-0.0.0.0 "206
 0.0.0.0 unibet.com.au
 0.0.0.0 betrally.com
 0.0.0.0 casinoextra.com
@@ -523,10 +483,8 @@
 0.0.0.0 gsn.com
 0.0.0.0 horseplayerinteractive.com
 0.0.0.0 nairabet.com
-0.0.0.0 "206
 0.0.0.0 oddsring.com
 0.0.0.0 ozlotteries.com
-0.0.0.0 "206
 0.0.0.0 planetwin365.com
 0.0.0.0 rivalo.com
 0.0.0.0 rummycircle.com
@@ -535,23 +493,17 @@
 0.0.0.0 365planetwinall.net
 0.0.0.0 777affiliates.com
 0.0.0.0 redslots.com
-0.0.0.0 CURACAO EGAMING
-0.0.0.0 "206
 0.0.0.0 vegascasino.com
-0.0.0.0 "206
 0.0.0.0 pariscasino.com
-0.0.0.0 "206
 0.0.0.0 1-x-bet.com
 0.0.0.0 1xbet82.com
 0.0.0.0 1xbetbk3.com
 0.0.0.0 1xbetcn.com
-0.0.0.0 210
 0.0.0.0 1xir.com
 0.0.0.0 1x-sp-34.com
 0.0.0.0 betpepe.com
 0.0.0.0 betswar.com
 0.0.0.0 betwiz.com
-0.0.0.0 210
 0.0.0.0 dizzywin.com
 0.0.0.0 euromillionsjackpot.com
 0.0.0.0 euroslots.com
@@ -569,7 +521,6 @@
 0.0.0.0 bingo-lottery.co.uk
 0.0.0.0 bingoscotland.com
 0.0.0.0 marsbet.gr
-0.0.0.0 "215
 0.0.0.0 marsbet.com
 0.0.0.0 marsbet8.com
 0.0.0.0 marsbet11.com
@@ -577,14 +528,12 @@
 0.0.0.0 marsbet34.com
 0.0.0.0 marsbet43.com
 0.0.0.0 marsbet66.com
-0.0.0.0 "215
 0.0.0.0 marsbet100.com
 0.0.0.0 marsbet101.com
 0.0.0.0 marsbet365.com
 0.0.0.0 marsbet724.com
 0.0.0.0 marsbetting24.com
 0.0.0.0 marsbet.com.pt
-0.0.0.0 "215
 0.0.0.0 marsbetting55.com
 0.0.0.0 marsbetting100.com
 0.0.0.0 1sx521.com
@@ -893,8 +842,6 @@
 0.0.0.0 skypoker.com
 0.0.0.0 unibet.eu
 0.0.0.0 unibet.co.uk
-0.0.0.0 
-0.0.0.0 ΠΡΠ4779270318
 0.0.0.0 unibet.gr
 0.0.0.0 unibet.online
 0.0.0.0 unibet.org
@@ -923,53 +870,30 @@
 0.0.0.0 ccdnss.com
 0.0.0.0 silveroakcasino.com
 0.0.0.0 llamagaming.com
-0.0.0.0 JONATHAN FRANCIS
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 captainjackcasino.com
 0.0.0.0 bitcoinpenguin.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 winadaycasino.eu
 0.0.0.0 slotland.eu
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 wizardslots.com
 0.0.0.0 grandwild.com
 0.0.0.0 grandfortunecampaign.com
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 gossipslots.eu
 0.0.0.0 gdaycasino.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 galaxypig.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 fruitycasa.com
-0.0.0.0 
-0.0.0.0 2018
 0.0.0.0 driftcasino.com
-0.0.0.0 SUNLET SERVICES LTD
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 drakecasino.eu
 0.0.0.0 dragonaraonline.com
 0.0.0.0 casino440.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 casinoventura.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 casinosuperlines.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 casinosieger.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 casinoheroes.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 casinoadrenaline.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 bitstarz.com
 0.0.0.0 bitcasino.io
-0.0.0.0 
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 bigbangcasino.com
 0.0.0.0 betnspin.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 slotplanet.com
 0.0.0.0 77jackpot.com
 0.0.0.0 uniquecasino.com
@@ -977,51 +901,26 @@
 0.0.0.0 stakes.com
 0.0.0.0 slotv.com
 0.0.0.0 slots.io
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 slotjoint.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 sirjackpot.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 rembrandtcasino.com
-0.0.0.0 
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 ragingbullcampaign.com
-0.0.0.0 
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 playgrandcasino.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 playamo.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 oceanbets.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 mrwin.com
 0.0.0.0 lucky31.com
-0.0.0.0 
-0.0.0.0 MOBILE TECHNOLOGY MARKETING
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 lokicasino.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 lincolncasino.eu
 0.0.0.0 kingbillycasino.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 joefortune.com
 0.0.0.0 hellocasino.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 chanz.com
 0.0.0.0 winspark.com
-0.0.0.0 
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 vegas2web.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 wildslots.com
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 wikiwins.com
 0.0.0.0 vegascrestcasino.ag
-0.0.0.0 
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 21bet.com
 0.0.0.0 cherryjackpot.com
 0.0.0.0 fantasticworldpoker.com
@@ -1101,9 +1000,7 @@
 0.0.0.0 energycasino.com
 0.0.0.0 eurogrand.com
 0.0.0.0 freeslotsland.eu
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 kaboo.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 lvbet.com
 0.0.0.0 mybookie.ag
 0.0.0.0 sportsbetting.ag
@@ -1116,18 +1013,14 @@
 0.0.0.0 yapoker.com
 0.0.0.0 leaderbet.com
 0.0.0.0 luckland.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 bahabet.com
 0.0.0.0 betkings.eu
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 oscarbianca.com
 0.0.0.0 wonclub.com
 0.0.0.0 almightyvikings.com
 0.0.0.0 intbet61.com
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 spinpalacegames.com
 0.0.0.0 viproomcasino.net
-0.0.0.0 ΠΡΠ10350200618
 0.0.0.0 betexper32.com
 0.0.0.0 cresuscasino.com
 0.0.0.0 bet.co.za
@@ -1430,7 +1323,6 @@
 0.0.0.0 bet777.at
 0.0.0.0 bet-777.at
 0.0.0.0 betallsports.com
-0.0.0.0 
 0.0.0.0 betchoice.biz
 0.0.0.0 bet-choice.info
 0.0.0.0 bet-choice.net
@@ -2160,10 +2052,8 @@
 0.0.0.0 newlookbingo.com
 0.0.0.0 norgesspill.com
 0.0.0.0 RED TRADING CURACAO N.V.
-0.0.0.0 ΠΡΠ11542050718
 0.0.0.0 norskspill.com
 0.0.0.0 RED TRADING CURACAO N.V.
-0.0.0.0 ΠΡΠ11542050718
 0.0.0.0 noxwin23.com
 0.0.0.0 noxwin24.com
 0.0.0.0 noxwin272.com
@@ -2226,7 +2116,6 @@
 0.0.0.0 netticasinot.com
 0.0.0.0 24noxwin.com
 0.0.0.0 32redpoker.com
-0.0.0.0 
 0.0.0.0 38bet.com
 0.0.0.0 75136168.com
 0.0.0.0 777bet.fr
@@ -2356,7 +2245,6 @@
 0.0.0.0 thunderboltcasino.biz
 0.0.0.0 thunderboltcasino.net
 0.0.0.0 tipp2.at
-0.0.0.0 ΠΡΠ11542050718
 0.0.0.0 tote-bet.org
 0.0.0.0 totebetting.org
 0.0.0.0 tote-bingo.net
@@ -2467,97 +2355,56 @@
 0.0.0.0 1x2-netbet.gr
 0.0.0.0 hotbet.bet
 0.0.0.0 20bet.com
-0.0.0.0 9821
 0.0.0.0 nationalcasino.com
-0.0.0.0 9821
 0.0.0.0 21casino.com
 0.0.0.0 22bet.bi
 0.0.0.0 22bet.co.ke
 0.0.0.0 22bet.com
-0.0.0.0 9821
 0.0.0.0 22bet.gr
 0.0.0.0 22bet.live
 0.0.0.0 22bet.ng
 0.0.0.0 22bets.co
-0.0.0.0 9821
 0.0.0.0 22bet1.com
-0.0.0.0 9821
 0.0.0.0 22bet2.com
 0.0.0.0 22bet3.com
-0.0.0.0 9821
 0.0.0.0 22bet4.com
-0.0.0.0 9821
 0.0.0.0 22bet5.com
-0.0.0.0 9821
 0.0.0.0 22bet6.com
-0.0.0.0 9821
 0.0.0.0 22bet7.com
-0.0.0.0 9821
 0.0.0.0 22bet10.com
-0.0.0.0 9821
 0.0.0.0 22bet11.com
-0.0.0.0 9821
 0.0.0.0 22bet12.com
-0.0.0.0 9821
 0.0.0.0 22bet13.com
-0.0.0.0 9821
 0.0.0.0 22bet14.com
-0.0.0.0 9821
 0.0.0.0 22bet15.com
-0.0.0.0 9821
 0.0.0.0 22bet16.com
-0.0.0.0 9821
 0.0.0.0 22bet17.com
-0.0.0.0 9821
 0.0.0.0 22bet18.com
-0.0.0.0 9821
 0.0.0.0 22bet19.com
-0.0.0.0 9821
 0.0.0.0 22bet1.net
-0.0.0.0 9821
 0.0.0.0 22betmirrors.site
 0.0.0.0 28bet.com
 0.0.0.0 fogobet.com
-0.0.0.0 11288
 0.0.0.0 stake.com
-0.0.0.0 11288
 0.0.0.0 casinoestrellaofficial.com
-0.0.0.0 11288
 0.0.0.0 betitall10.com
-0.0.0.0 11288
 0.0.0.0 zenbetting.com
-0.0.0.0 11288
 0.0.0.0 bmbet93.com
 0.0.0.0 betmaster.io
-0.0.0.0 11288
 0.0.0.0 casinoin.io
-0.0.0.0 11288
 0.0.0.0 betitall.com
-0.0.0.0 11288
 0.0.0.0 betitall1.com
-0.0.0.0 11288
 0.0.0.0 betitall2.com
-0.0.0.0 11288
 0.0.0.0 betitall3.com
-0.0.0.0 11288
 0.0.0.0 betitall4.com
-0.0.0.0 11288
 0.0.0.0 betitall5.com
-0.0.0.0 11288
 0.0.0.0 betitall6.com
-0.0.0.0 11288
 0.0.0.0 betitall7.com
-0.0.0.0 11288
 0.0.0.0 betitall8.com
-0.0.0.0 11288
 0.0.0.0 betitall9.com
-0.0.0.0 11288
 0.0.0.0 betitall.bet
-0.0.0.0 11288
 0.0.0.0 betitall.eu
-0.0.0.0 11288
 0.0.0.0 gobetitall.com
-0.0.0.0 11288
 0.0.0.0 championsbet.gr
 0.0.0.0 nees-stoiximatikes-etairies.com
 0.0.0.0 22bets.me
@@ -2715,7 +2562,7 @@
 0.0.0.0 24dogs.com
 0.0.0.0 pantheonpalace.gr
 0.0.0.0 betmasterluck.com
-0.0.0.0 "bet20.gr "
+0.0.0.0 bet20.gr
 0.0.0.0 astekbet135.com
 0.0.0.0 astek.bet
 0.0.0.0 astekbet.me
@@ -2774,7 +2621,6 @@
 0.0.0.0 betbeard.com
 0.0.0.0 kingbitcasino.com
 0.0.0.0 5gringos1.com
-0.0.0.0 8974
 0.0.0.0 frankclubcasino.com
 0.0.0.0 casoo15.com
 0.0.0.0 wildtokyo.com
@@ -7005,8 +6851,8 @@
 0.0.0.0 ggbetyou.com
 0.0.0.0 ggbestbet.org
 0.0.0.0 4starscasino.io
-0.0.0.0 "artcasino.io "
-0.0.0.0 "boomerang-casino4.com "
+0.0.0.0 artcasino.io
+0.0.0.0 boomerang-casino4.com
 0.0.0.0 casinoly4.com
 0.0.0.0 cirusbet.com
 0.0.0.0 powbet9.com
@@ -7015,7 +6861,7 @@
 0.0.0.0 leon16.bet
 0.0.0.0 leon26.casino
 0.0.0.0 myempire1.com
-0.0.0.0 "nationalcasino.bet "
+0.0.0.0 nationalcasino.bet
 0.0.0.0 rollingslots1.com
 0.0.0.0 wazamba5.com
 0.0.0.0 ps3838.com
@@ -7027,12 +6873,12 @@
 0.0.0.0 am-motion.eu
 0.0.0.0 greekonlinecasinos.com
 0.0.0.0 casinoin-gr.com
-0.0.0.0 "casinoin-casino.org.gr "
+0.0.0.0 casinoin-casino.org.gr
 0.0.0.0 ellinikakollegia.gr
 0.0.0.0 casino.org
 0.0.0.0 slotshub31.com
 0.0.0.0 slotshub41.com
-0.0.0.0 "20betbet.com "
+0.0.0.0 20betbet.com
 0.0.0.0 ohmyspins5.com
 0.0.0.0 fezbet-7139.com
 0.0.0.0 zipcasino1320973.com
@@ -7049,7 +6895,7 @@
 0.0.0.0 casinia4.com
 0.0.0.0 librabet9.com
 0.0.0.0 nomini9.com
-0.0.0.0 "casino-gang.gr "
+0.0.0.0 casino-gang.gr
 0.0.0.0 boaboa3.com
 0.0.0.0 cadoola6.com
 0.0.0.0 casinoin.fun
@@ -7063,7 +6909,7 @@
 0.0.0.0 7signs2.com
 0.0.0.0 frumzi1.com
 0.0.0.0 casombie1.com
-0.0.0.0 "twin26.com "
+0.0.0.0 twin26.com
 0.0.0.0 bizzoocasino3.com
 0.0.0.0 vave3.com
 0.0.0.0 vave4.com
@@ -10268,7 +10114,7 @@
 0.0.0.0 respin.com
 0.0.0.0 rollingslots35.com
 0.0.0.0 polestarcasino4.com
-0.0.0.0 "genieplay3.com "
+0.0.0.0 genieplay3.com
 0.0.0.0 leon101.bet
 0.0.0.0 loutr.playstxo.com
 0.0.0.0 leon216.casino
@@ -10310,7 +10156,7 @@
 0.0.0.0 welle1.casino
 0.0.0.0 spinsbro6.com
 0.0.0.0 mystake4.com
-0.0.0.0 "jungliwin.com  "
+0.0.0.0 jungliwin.com
 0.0.0.0 goldenpanda.com
 0.0.0.0 windetta3.com
 0.0.0.0 verdecasino1538.com
