@@ -1,85 +1,60 @@
-# 🇬🇷 Ελληνικές και Διεθνείς Λίστες Αποκλεισμού για MikroTik και Pi-hole  
-# 🇬🇧 Greek and International Blocklists for MikroTik and Pi-hole
+# 🇬🇷 Ελληνικές και Διεθνείς Λίστες Αποκλεισμού για MikroTik και Pi-hole
+## 🇬🇧 Greek and International Blocklists for MikroTik and Pi-hole
 
-Αυτό το αποθετήριο περιέχει επιμελημένες λίστες από domain names και διευθύνσεις IP που απαγορεύονται βάσει της ελληνικής νομοθεσίας.  
-Το περιεχόμενο είναι κατάλληλο για χρήση σε συστήματα φιλτραρίσματος περιεχομένου όπως **MikroTik RouterOS** και **Pi-hole**.
+🇬🇷 Αυτό το αποθετήριο περιέχει επιμελημένες λίστες από domain names και διευθύνσεις IP που απαγορεύονται βάσει της ελληνικής νομοθεσίας.  
+Το περιεχόμενο είναι κατάλληλο για χρήση σε συστήματα φιλτραρίσματος περιεχομένου όπως MikroTik RouterOS και Pi-hole.
 
-This repository includes curated lists of domain names and IP addresses that are restricted under Greek law.  
-The content is suitable for use with content filtering systems such as **MikroTik RouterOS** and **Pi-hole**.
+🇬🇧 This repository includes curated lists of domain names and IP addresses that are restricted under Greek law.  
+The content is suitable for use with content filtering systems such as MikroTik RouterOS and Pi-hole.
 
-
+---
 
 ## 📁 Περιεχόμενα / Contents
 
-### 📄 `eeep.txt`
-- 🇬🇷 Περιλαμβάνει domains που σχετίζονται με **στοιχήματα και καζίνο**
-- Βασισμένο στη λίστα της **Ε.Ε.Ε.Π. (Επιτροπή Εποπτείας και Ελέγχου Παιγνίων)**
-- Κατάλληλο για χρήση με **DNS filtering**, **Pi-hole**, κ.ά.
+- **📄 eeep.txt**  
+  🇬🇷 Περιλαμβάνει domains που σχετίζονται με στοιχήματα και καζίνο – Ε.Ε.Ε.Π.  
+  🇬🇧 Contains gambling-related domains – from Hellenic Gaming Commission (HGC / Ε.Ε.Ε.Π.)  
+  ✅ Format: `0.0.0.0 casino-example.com`
 
-- 🇬🇧 Contains domain names related to **gambling and betting**
-- Based on the official list of the **Hellenic Gaming Commission (HGC / Ε.Ε.Ε.Π.)**
-- Suitable for use with **DNS filtering**, **Pi-hole**, and similar tools
+- **🧱 gr_bl.rsc**  
+  🇬🇷 Ελληνικές IP που παραβιάζουν πνευματικά δικαιώματα – έτοιμες για MikroTik  
+  🇬🇧 Greek copyright-infringing IPs – MikroTik-ready  
+  ✅ Format: `/ip firewall address-list add list=GR_BL address=1.2.3.4`
 
-> ✅ Μορφή / Format:
-> ```
-> 0.0.0.0 casino-example.com
-> 0.0.0.0 betsite.gr
-> ```
+- **🛡️ bds_atif.rsc**  
+  🇬🇷 Κακόβουλες IP από Binary Defense Systems (ATIF)  
+  🇬🇧 Malicious IPs from Binary Defense Systems – ATIF
 
+- **🚨 et_block.rsc**  
+  🇬🇷 Emerging Threats IPs – scanners, botnets, malware  
+  🇬🇧 Threat IPs from Emerging Threats project
 
+- **📛 spamhaus.rsc**  
+  🇬🇷 Συνδυασμός Spamhaus DROP/EDROP με Emerging Threats  
+  🇬🇧 Spamhaus + Emerging Threats combined IP blacklist
 
-### 🧱 `gr_bl.rsc`
-- 🇬🇷 Περιλαμβάνει **IP διευθύνσεις** από ελληνικούς servers που φιλοξενούν περιεχόμενο που **παραβιάζει πνευματικά δικαιώματα**
-- Σε μορφή `.rsc` έτοιμη για εισαγωγή σε **MikroTik RouterOS**
-- Βασίζεται σε αποφάσεις ελληνικών αρχών για αποκλεισμό πρόσβασης
-
-- 🇬🇧 Contains **IP addresses** of Greek-hosted services related to **copyright-infringing content**
-- Provided as `.rsc` format, ready for **MikroTik RouterOS**
-- Based on official block decisions by Greek authorities
-
-> ✅ Μορφή / Format:
-> ```
-> /ip firewall address-list add list=GR_BL address=1.2.3.4
-> ```
-
-
-## 🛡️ Binary Defense IP Blacklist
-
-🇬🇷 Λίστα κακόβουλων IP διευθύνσεων από το Binary Defense Systems – ATIF (Artillery Threat Intelligence Feed).  
-Χρήσιμη για μπλοκάρισμα εισερχόμενων απειλών σε MikroTik, Pi-hole, firewalls και άλλα συστήματα.  
-Η λίστα ανανεώνεται αυτόματα και παρέχεται μόνο για μη εμπορική χρήση.
-
-🇬🇧 Malicious IP address list from Binary Defense Systems – ATIF (Artillery Threat Intelligence Feed).  
-Ideal for blocking incoming threats via MikroTik, Pi-hole, firewalls, and other security systems.  
-This list is automatically updated and provided for non-commercial use only.
-
+---
 
 ## ⚠️ Νομική Σημείωση / Legal Disclaimer
 
-🇬🇷 Το περιεχόμενο παρέχεται για **εκπαιδευτικούς και νομικά επιτρεπτούς σκοπούς**.  
+🇬🇷 Το περιεχόμενο παρέχεται για εκπαιδευτικούς και νομικά επιτρεπτούς σκοπούς.  
 Η ευθύνη για τη χρήση και συμμόρφωση με τη νομοθεσία φέρει αποκλειστικά ο χρήστης.
 
-🇬🇧 This content is provided for **educational and legally permitted use only**.  
+🇬🇧 This content is provided for educational and legally permitted use only.  
 The end user is solely responsible for lawful and compliant implementation.
 
+---
 
 ## 📬 Συνεισφορά / Contribute
 
-🇬🇷 Έχεις κάποια πρόταση, domain ή IP για προσθήκη/αφαίρεση; Κάνε ένα pull request ή άνοιξε issue.  
+🇬🇷 Έχεις πρόταση, domain ή IP για προσθήκη/αφαίρεση; Κάνε ένα pull request ή άνοιξε issue.  
 🇬🇧 Have a suggestion, domain, or IP to add/remove? Feel free to open an issue or submit a pull request.
 
-
-## 📅 Τελευταία ενημέρωση / Last updated:
-> (Χειροκίνητα ή με GitHub Actions / Manual or via GitHub Actions)
-
-
-
+---
 
 ## ☕ Στήριξέ με / Support My Work
 
-Είμαι δικτυάς και εκπαιδευτής με εμπειρία σε MikroTik, Ubiquiti και TP-Link. Αν βρήκες χρήσιμη τη δουλειά μου ή τις λίστες που προσφέρω, μπορείς να με στηρίξεις με έναν καφέ!
+🇬🇷 Είμαι δικτυάς και εκπαιδευτής με εμπειρία σε MikroTik, Ubiquiti και TP-Link. Αν βρήκες χρήσιμη τη δουλειά μου, μπορείς να με στηρίξεις με έναν καφέ!  
+🇬🇧 I’m a network engineer & trainer focused on MikroTik, Ubiquiti and TP-Link networks. If you find my work useful, feel free to support me!
 
-I’m a network engineer & trainer focused on MikroTik, Ubiquiti and TP-Link networks. If you find my work useful — blocklists, scripts or training — feel free to buy me a coffee and support future content!
-
-👉 [https://buymeacoffee.com/pournarasaa](https://buymeacoffee.com/pournarasaa)
-
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=pournarasaa&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/pournarasaa)
