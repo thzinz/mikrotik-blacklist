@@ -34,6 +34,7 @@ The content is suitable for use with content filtering systems such as MikroTik 
   🇬🇧 Spamhaus + Emerging Threats combined IP blacklist
 
 - **🧿 trackers-with-ip.txt**
+
   🇬🇷 Περιλαμβάνει hostnames από torrent trackers, μετατρεπόμενα σε μορφή 0.0.0.0 για φιλτράρισμα μέσω DNS.
   Κατάλληλο για χρήση σε MikroTik DNS static entries και Pi-hole adlists.
   🇬🇧 Contains hostnames from torrent trackers, formatted as 0.0.0.0 for DNS-based filtering.
@@ -41,6 +42,7 @@ The content is suitable for use with content filtering systems such as MikroTik 
   ✅ Format: 0.0.0.0 tracker.example.com
 
 - **🌐 websites-with-ip.txt**
+
   🇬🇷 Περιέχει hostnames από torrent ιστοσελίδες (indexers, proxy sites κ.λπ.), σε μορφή 0.0.0.0 για μπλοκάρισμα μέσω DNS.
   Ιδανικό για MikroTik και Pi-hole.
   🇬🇧 Contains hostnames from torrent websites (indexers, proxy sites, etc.), formatted as 0.0.0.0 for DNS blocking.
