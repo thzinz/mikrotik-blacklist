@@ -68,7 +68,11 @@ The end user is solely responsible for lawful and compliant implementation.
 ---
 ---
 
-## ☕ Στήριξέ με / Support my work
+## ☕ Στήριξέ με / Support My Work
 
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=pournarasaa&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/pournarasaa)
+Είμαι δικτυάς και εκπαιδευτής με εμπειρία σε MikroTik, Ubiquiti και TP-Link. Αν βρήκες χρήσιμη τη δουλειά μου ή τις λίστες που προσφέρω, μπορείς να με στηρίξεις με έναν καφέ!
+
+I’m a network engineer & trainer focused on MikroTik, Ubiquiti and TP-Link networks. If you find my work useful — blocklists, scripts or training — feel free to buy me a coffee and support future content!
+
+👉 [https://buymeacoffee.com/pournarasaa](https://buymeacoffee.com/pournarasaa)
 
