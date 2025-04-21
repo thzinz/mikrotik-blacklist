@@ -43,6 +43,11 @@ The content is suitable for use with content filtering systems such as MikroTik 
   🇬🇧 Contains hostnames from torrent websites (indexers, proxy sites, etc.), formatted as 0.0.0.0 for DNS blocking.Great for MikroTik and Pi-hole setups.   
   ✅ Format: 0.0.0.0 torrent-site.example.com
 
+### 🛑 blocklist_de.rsc  
+  🇬🇷 Κακόβουλες IP που έχουν καταγραφεί να επιτίθενται σε SSH, SMTP, FTP, web services κ.ά., σύμφωνα με τα δεδομένα του blocklist.de.  
+  🇬🇧 Malicious IPs recorded attacking SSH, SMTP, FTP, web services, etc., based on reports from blocklist.de.  
+  ✅ Format: /ip firewall address-list add list=BLOCKLIST_DE address=1.2.3.4  
+
 ---
 
 ## ⚠️ Νομική Σημείωση / Legal Disclaimer
