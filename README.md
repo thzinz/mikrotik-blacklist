@@ -14,12 +14,12 @@ The content is suitable for use with content filtering systems such as MikroTik 
 📄 eeep.txt   
   🇬🇷 Περιλαμβάνει domains που σχετίζονται με στοιχήματα και καζίνο – Ε.Ε.Ε.Π.  
   🇬🇧 Contains gambling-related domains – from Hellenic Gaming Commission (HGC / Ε.Ε.Ε.Π.)  
-  ✅ Format: `0.0.0.0 casino-example.com`
+  ✅ Format: `0.0.0.0 casino-example.com`   
 
 🧱 gr_bl.rsc   
   🇬🇷 Ελληνικές IP που παραβιάζουν πνευματικά δικαιώματα – έτοιμες για MikroTik  
   🇬🇧 Greek copyright-infringing IPs – MikroTik-ready  
-  ✅ Format: `/ip firewall address-list add list=GR_BL address=1.2.3.4`
+  ✅ Format: `/ip firewall address-list add list=GR_BL address=1.2.3.4`   
 
 🛡️ bds_atif.rsc   
   🇬🇷 Κακόβουλες IP από Binary Defense Systems (ATIF)  
@@ -35,12 +35,12 @@ The content is suitable for use with content filtering systems such as MikroTik 
 
 🧿 trackers-with-ip.txt   
   🇬🇷 Περιλαμβάνει hostnames από torrent trackers, μετατρεπόμενα σε μορφή 0.0.0.0 για φιλτράρισμα μέσω DNS. Κατάλληλο για χρήση σε MikroTik DNS static entries και Pi-hole adlists.   
-  🇬🇧 Contains hostnames from torrent trackers, formatted as 0.0.0.0 for DNS-based filtering. Suitable for MikroTik DNS static lists and Pi-hole adlists.
+  🇬🇧 Contains hostnames from torrent trackers, formatted as 0.0.0.0 for DNS-based filtering. Suitable for MikroTik DNS static lists and Pi-hole adlists.   
   ✅ Format: 0.0.0.0 tracker.example.com
 
 🌐 websites-with-ip.txt   
   🇬🇷 Περιέχει hostnames από torrent ιστοσελίδες (indexers, proxy sites κ.λπ.), σε μορφή 0.0.0.0 για μπλοκάρισμα μέσω DNS. Ιδανικό για MikroTik και Pi-hole.   
-  🇬🇧 Contains hostnames from torrent websites (indexers, proxy sites, etc.), formatted as 0.0.0.0 for DNS blocking.Great for MikroTik and Pi-hole setups.
+  🇬🇧 Contains hostnames from torrent websites (indexers, proxy sites, etc.), formatted as 0.0.0.0 for DNS blocking.Great for MikroTik and Pi-hole setups.   
   ✅ Format: 0.0.0.0 torrent-site.example.com
 
 ---
