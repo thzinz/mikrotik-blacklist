@@ -7,7 +7,7 @@
 This repository includes curated lists of domain names and IP addresses that are restricted under Greek law.  
 The content is suitable for use with content filtering systems such as **MikroTik RouterOS** and **Pi-hole**.
 
----
+
 
 ## 📁 Περιεχόμενα / Contents
 
@@ -26,7 +26,7 @@ The content is suitable for use with content filtering systems such as **MikroTi
 > 0.0.0.0 betsite.gr
 > ```
 
----
+
 
 ### 🧱 `gr_bl.rsc`
 - 🇬🇷 Περιλαμβάνει **IP διευθύνσεις** από ελληνικούς servers που φιλοξενούν περιεχόμενο που **παραβιάζει πνευματικά δικαιώματα**
@@ -42,7 +42,17 @@ The content is suitable for use with content filtering systems such as **MikroTi
 > /ip firewall address-list add list=GR_BL address=1.2.3.4
 > ```
 
----
+
+## 🛡️ Binary Defense IP Blacklist
+
+🇬🇷 Λίστα κακόβουλων IP διευθύνσεων από το Binary Defense Systems – ATIF (Artillery Threat Intelligence Feed).  
+Χρήσιμη για μπλοκάρισμα εισερχόμενων απειλών σε MikroTik, Pi-hole, firewalls και άλλα συστήματα.  
+Η λίστα ανανεώνεται αυτόματα και παρέχεται μόνο για μη εμπορική χρήση.
+
+🇬🇧 Malicious IP address list from Binary Defense Systems – ATIF (Artillery Threat Intelligence Feed).  
+Ideal for blocking incoming threats via MikroTik, Pi-hole, firewalls, and other security systems.  
+This list is automatically updated and provided for non-commercial use only.
+
 
 ## ⚠️ Νομική Σημείωση / Legal Disclaimer
 
@@ -52,21 +62,18 @@ The content is suitable for use with content filtering systems such as **MikroTi
 🇬🇧 This content is provided for **educational and legally permitted use only**.  
 The end user is solely responsible for lawful and compliant implementation.
 
----
 
 ## 📬 Συνεισφορά / Contribute
 
 🇬🇷 Έχεις κάποια πρόταση, domain ή IP για προσθήκη/αφαίρεση; Κάνε ένα pull request ή άνοιξε issue.  
 🇬🇧 Have a suggestion, domain, or IP to add/remove? Feel free to open an issue or submit a pull request.
 
----
 
 ## 📅 Τελευταία ενημέρωση / Last updated:
 > (Χειροκίνητα ή με GitHub Actions / Manual or via GitHub Actions)
 
 
----
----
+
 
 ## ☕ Στήριξέ με / Support My Work
 
