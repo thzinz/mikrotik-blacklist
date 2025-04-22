@@ -1,0 +1,10 @@
+/ip firewall raw add action=drop chain=prerouting log=yes log-prefix=SRC-BLOCKLIST_DE src-address-list=BLOCKLIST_DE
+/ip firewall raw add action=drop chain=prerouting dst-address-list=BLOCKLIST_DE log=yes log-prefix=DST-BLOCKLIST_DE
+/ip firewall raw add action=drop chain=prerouting log=yes log-prefix=SRC-GR_BL src-address-list=GR_BL
+/ip firewall raw add action=drop chain=prerouting dst-address-list=GR_BL log=yes log-prefix=DST-GR_BL
+/ip firewall raw add action=drop chain=prerouting log=yes log-prefix=SRC-BDS_ATIF src-address-list=BDS_ATIF
+/ip firewall raw add action=drop chain=prerouting dst-address-list=BDS_ATIF log=yes log-prefix=DST-BDS_ATIF
+/ip firewall raw add action=drop chain=prerouting log=yes log-prefix=SRC-ET_BLOCK src-address-list=ET_BLOCK
+/ip firewall raw add action=drop chain=prerouting dst-address-list=ET_BLOCK log=yes log-prefix=DST-ET_BLOCK
+/ip firewall raw add action=drop chain=prerouting log=yes log-prefix=SRC-ET_SPAMHAUS src-address-list=ET_SPAMHAUS
+/ip firewall raw add action=drop chain=prerouting dst-address-list=ET_SPAMHAUS log=yes log-prefix=DST-ET_SPAMHAUS
