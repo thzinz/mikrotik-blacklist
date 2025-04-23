@@ -12,6 +12,7 @@
 /ip firewall address-list add list=ET_BLOCK address=5.182.112.0/24
 /ip firewall address-list add list=ET_BLOCK address=5.183.60.0/22
 /ip firewall address-list add list=ET_BLOCK address=5.188.10.0/23
+/ip firewall address-list add list=ET_BLOCK address=5.188.206.0/24
 /ip firewall address-list add list=ET_BLOCK address=5.188.236.0/23
 /ip firewall address-list add list=ET_BLOCK address=14.128.32.0/20
 /ip firewall address-list add list=ET_BLOCK address=14.128.48.0/21
@@ -37,7 +38,6 @@
 /ip firewall address-list add list=ET_BLOCK address=31.210.20.0/24
 /ip firewall address-list add list=ET_BLOCK address=31.217.252.0/24
 /ip firewall address-list add list=ET_BLOCK address=31.222.236.0/24
-/ip firewall address-list add list=ET_BLOCK address=35.203.210.0/23
 /ip firewall address-list add list=ET_BLOCK address=36.0.8.0/21
 /ip firewall address-list add list=ET_BLOCK address=36.0.128.0/17
 /ip firewall address-list add list=ET_BLOCK address=36.37.48.0/20
@@ -120,7 +120,6 @@
 /ip firewall address-list add list=ET_BLOCK address=57.129.64.0/24
 /ip firewall address-list add list=ET_BLOCK address=58.2.0.0/17
 /ip firewall address-list add list=ET_BLOCK address=58.14.0.0/15
-/ip firewall address-list add list=ET_BLOCK address=59.153.164.0/24
 /ip firewall address-list add list=ET_BLOCK address=59.155.0.0/16
 /ip firewall address-list add list=ET_BLOCK address=60.200.0.0/16
 /ip firewall address-list add list=ET_BLOCK address=60.233.0.0/16
@@ -143,6 +142,7 @@
 /ip firewall address-list add list=ET_BLOCK address=64.116.200.0/21
 /ip firewall address-list add list=ET_BLOCK address=64.250.144.0/20
 /ip firewall address-list add list=ET_BLOCK address=64.254.80.0/20
+/ip firewall address-list add list=ET_BLOCK address=65.49.1.0/24
 /ip firewall address-list add list=ET_BLOCK address=65.205.64.0/22
 /ip firewall address-list add list=ET_BLOCK address=65.216.208.0/21
 /ip firewall address-list add list=ET_BLOCK address=66.54.232.0/22
@@ -168,6 +168,7 @@
 /ip firewall address-list add list=ET_BLOCK address=77.90.188.0/24
 /ip firewall address-list add list=ET_BLOCK address=77.91.76.0/24
 /ip firewall address-list add list=ET_BLOCK address=78.40.143.0/24
+/ip firewall address-list add list=ET_BLOCK address=78.128.113.0/24
 /ip firewall address-list add list=ET_BLOCK address=79.137.192.0/24
 /ip firewall address-list add list=ET_BLOCK address=80.64.30.0/24
 /ip firewall address-list add list=ET_BLOCK address=80.66.75.0/24
@@ -274,6 +275,7 @@
 /ip firewall address-list add list=ET_BLOCK address=89.190.156.0/24
 /ip firewall address-list add list=ET_BLOCK address=91.109.176.0/20
 /ip firewall address-list add list=ET_BLOCK address=91.194.192.0/22
+/ip firewall address-list add list=ET_BLOCK address=91.196.152.0/24
 /ip firewall address-list add list=ET_BLOCK address=91.200.133.0/24
 /ip firewall address-list add list=ET_BLOCK address=91.200.164.0/22
 /ip firewall address-list add list=ET_BLOCK address=91.202.233.0/24
@@ -364,6 +366,7 @@
 /ip firewall address-list add list=ET_BLOCK address=103.83.18.0/23
 /ip firewall address-list add list=ET_BLOCK address=103.95.180.0/22
 /ip firewall address-list add list=ET_BLOCK address=103.97.2.0/24
+/ip firewall address-list add list=ET_BLOCK address=103.102.230.0/24
 /ip firewall address-list add list=ET_BLOCK address=103.104.0.0/21
 /ip firewall address-list add list=ET_BLOCK address=103.105.240.0/22
 /ip firewall address-list add list=ET_BLOCK address=103.107.20.0/22
@@ -412,7 +415,6 @@
 /ip firewall address-list add list=ET_BLOCK address=103.255.56.0/22
 /ip firewall address-list add list=ET_BLOCK address=104.37.4.0/24
 /ip firewall address-list add list=ET_BLOCK address=104.193.228.0/22
-/ip firewall address-list add list=ET_BLOCK address=104.234.115.0/24
 /ip firewall address-list add list=ET_BLOCK address=104.244.56.0/21
 /ip firewall address-list add list=ET_BLOCK address=104.245.240.0/22
 /ip firewall address-list add list=ET_BLOCK address=106.95.0.0/16
@@ -421,7 +423,6 @@
 /ip firewall address-list add list=ET_BLOCK address=107.182.240.0/20
 /ip firewall address-list add list=ET_BLOCK address=109.107.146.0/24
 /ip firewall address-list add list=ET_BLOCK address=109.172.92.205
-/ip firewall address-list add list=ET_BLOCK address=110.42.99.0/24
 /ip firewall address-list add list=ET_BLOCK address=110.44.104.0/22
 /ip firewall address-list add list=ET_BLOCK address=110.44.144.0/20
 /ip firewall address-list add list=ET_BLOCK address=110.48.0.0/18
@@ -539,7 +540,7 @@
 /ip firewall address-list add list=ET_BLOCK address=147.78.20.0/22
 /ip firewall address-list add list=ET_BLOCK address=147.78.224.0/22
 /ip firewall address-list add list=ET_BLOCK address=147.119.0.0/16
-/ip firewall address-list add list=ET_BLOCK address=147.185.132.0/23
+/ip firewall address-list add list=ET_BLOCK address=147.185.132.0/24
 /ip firewall address-list add list=ET_BLOCK address=148.148.0.0/16
 /ip firewall address-list add list=ET_BLOCK address=148.154.0.0/16
 /ip firewall address-list add list=ET_BLOCK address=148.178.0.0/16
@@ -608,8 +609,6 @@
 /ip firewall address-list add list=ET_BLOCK address=162.71.0.0/19
 /ip firewall address-list add list=ET_BLOCK address=162.208.124.0/22
 /ip firewall address-list add list=ET_BLOCK address=162.213.131.0/24
-/ip firewall address-list add list=ET_BLOCK address=162.216.149.0/24
-/ip firewall address-list add list=ET_BLOCK address=162.216.150.0/24
 /ip firewall address-list add list=ET_BLOCK address=162.243.103.246
 /ip firewall address-list add list=ET_BLOCK address=162.249.20.0/22
 /ip firewall address-list add list=ET_BLOCK address=162.255.208.0/21
@@ -633,6 +632,8 @@
 /ip firewall address-list add list=ET_BLOCK address=167.74.0.0/18
 /ip firewall address-list add list=ET_BLOCK address=167.82.144.0/20
 /ip firewall address-list add list=ET_BLOCK address=167.94.138.0/24
+/ip firewall address-list add list=ET_BLOCK address=167.94.145.0/24
+/ip firewall address-list add list=ET_BLOCK address=167.94.146.0/24
 /ip firewall address-list add list=ET_BLOCK address=167.158.0.0/16
 /ip firewall address-list add list=ET_BLOCK address=167.160.161.0/24
 /ip firewall address-list add list=ET_BLOCK address=167.224.0.0/19
@@ -696,6 +697,7 @@
 /ip firewall address-list add list=ET_BLOCK address=169.245.0.0/16
 /ip firewall address-list add list=ET_BLOCK address=169.246.0.0/15
 /ip firewall address-list add list=ET_BLOCK address=169.248.0.0/14
+/ip firewall address-list add list=ET_BLOCK address=170.39.218.0/24
 /ip firewall address-list add list=ET_BLOCK address=170.67.0.0/16
 /ip firewall address-list add list=ET_BLOCK address=170.83.232.0/22
 /ip firewall address-list add list=ET_BLOCK address=170.113.0.0/16
@@ -730,7 +732,6 @@
 /ip firewall address-list add list=ET_BLOCK address=180.178.192.0/18
 /ip firewall address-list add list=ET_BLOCK address=180.235.124.0/22
 /ip firewall address-list add list=ET_BLOCK address=181.177.64.0/18
-/ip firewall address-list add list=ET_BLOCK address=183.131.51.0/24
 /ip firewall address-list add list=ET_BLOCK address=185.7.214.0/23
 /ip firewall address-list add list=ET_BLOCK address=185.11.61.0/24
 /ip firewall address-list add list=ET_BLOCK address=185.14.192.0/24
@@ -919,6 +920,7 @@
 /ip firewall address-list add list=ET_BLOCK address=195.177.95.0/24
 /ip firewall address-list add list=ET_BLOCK address=195.178.110.0/24
 /ip firewall address-list add list=ET_BLOCK address=195.181.224.0/20
+/ip firewall address-list add list=ET_BLOCK address=195.184.76.0/24
 /ip firewall address-list add list=ET_BLOCK address=195.210.96.0/19
 /ip firewall address-list add list=ET_BLOCK address=195.211.190.0/23
 /ip firewall address-list add list=ET_BLOCK address=195.216.248.0/24
