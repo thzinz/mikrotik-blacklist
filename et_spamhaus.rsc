@@ -147,6 +147,7 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=67.107.196.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=67.219.208.0/20
 /ip firewall address-list add list=ET_SPAMHAUS address=69.36.44.0/24
+/ip firewall address-list add list=ET_SPAMHAUS address=69.165.0.0/20
 /ip firewall address-list add list=ET_SPAMHAUS address=71.4.32.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=72.46.24.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=74.80.191.0/24
@@ -410,6 +411,7 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=104.37.4.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=104.193.228.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=104.244.56.0/21
+/ip firewall address-list add list=ET_SPAMHAUS address=104.244.80.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=104.245.240.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=106.95.0.0/16
 /ip firewall address-list add list=ET_SPAMHAUS address=107.150.0.0/24
@@ -515,7 +517,6 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=144.215.0.0/16
 /ip firewall address-list add list=ET_SPAMHAUS address=145.231.0.0/16
 /ip firewall address-list add list=ET_SPAMHAUS address=146.3.0.0/16
-/ip firewall address-list add list=ET_SPAMHAUS address=146.19.125.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=146.47.0.0/16
 /ip firewall address-list add list=ET_SPAMHAUS address=146.51.0.0/16
 /ip firewall address-list add list=ET_SPAMHAUS address=146.106.0.0/16
@@ -1320,6 +1321,7 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=210.56.48.0/21
 /ip firewall address-list add list=ET_SPAMHAUS address=210.57.128.0/18
 /ip firewall address-list add list=ET_SPAMHAUS address=211.102.0.0/17
+/ip firewall address-list add list=ET_SPAMHAUS address=212.11.64.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=212.70.149.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=212.224.93.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=212.237.152.0/21
