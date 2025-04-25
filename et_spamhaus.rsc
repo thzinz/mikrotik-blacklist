@@ -726,6 +726,7 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=185.36.80.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=185.36.82.0/23
 /ip firewall address-list add list=ET_SPAMHAUS address=185.38.142.0/24
+/ip firewall address-list add list=ET_SPAMHAUS address=185.39.17.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=185.42.12.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=185.51.120.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=185.56.83.0/24
