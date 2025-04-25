@@ -4,6 +4,7 @@
 /ip firewall address-list add list=BDS_ATIF address=1.227.83.31
 /ip firewall address-list add list=BDS_ATIF address=1.228.113.10
 /ip firewall address-list add list=BDS_ATIF address=2.34.160.244
+/ip firewall address-list add list=BDS_ATIF address=2.60.42.227
 /ip firewall address-list add list=BDS_ATIF address=2.179.254.230
 /ip firewall address-list add list=BDS_ATIF address=2.184.193.39
 /ip firewall address-list add list=BDS_ATIF address=3.14.87.106
@@ -41,6 +42,7 @@
 /ip firewall address-list add list=BDS_ATIF address=3.141.169.51
 /ip firewall address-list add list=BDS_ATIF address=3.142.82.133
 /ip firewall address-list add list=BDS_ATIF address=3.142.171.230
+/ip firewall address-list add list=BDS_ATIF address=3.143.17.222
 /ip firewall address-list add list=BDS_ATIF address=3.143.237.197
 /ip firewall address-list add list=BDS_ATIF address=3.144.15.222
 /ip firewall address-list add list=BDS_ATIF address=3.144.106.135
@@ -76,6 +78,7 @@
 /ip firewall address-list add list=BDS_ATIF address=5.75.202.111
 /ip firewall address-list add list=BDS_ATIF address=5.101.6.136
 /ip firewall address-list add list=BDS_ATIF address=5.104.81.253
+/ip firewall address-list add list=BDS_ATIF address=5.113.51.184
 /ip firewall address-list add list=BDS_ATIF address=5.125.208.184
 /ip firewall address-list add list=BDS_ATIF address=5.133.168.15
 /ip firewall address-list add list=BDS_ATIF address=5.135.58.193
@@ -104,6 +107,7 @@
 /ip firewall address-list add list=BDS_ATIF address=5.237.229.94
 /ip firewall address-list add list=BDS_ATIF address=5.237.247.108
 /ip firewall address-list add list=BDS_ATIF address=5.250.182.124
+/ip firewall address-list add list=BDS_ATIF address=5.253.115.51
 /ip firewall address-list add list=BDS_ATIF address=8.134.159.4
 /ip firewall address-list add list=BDS_ATIF address=8.134.239.76
 /ip firewall address-list add list=BDS_ATIF address=8.135.237.190
@@ -160,6 +164,7 @@
 /ip firewall address-list add list=BDS_ATIF address=8.221.137.163
 /ip firewall address-list add list=BDS_ATIF address=8.221.138.209
 /ip firewall address-list add list=BDS_ATIF address=8.221.139.48
+/ip firewall address-list add list=BDS_ATIF address=8.221.141.186
 /ip firewall address-list add list=BDS_ATIF address=8.221.141.224
 /ip firewall address-list add list=BDS_ATIF address=8.222.128.242
 /ip firewall address-list add list=BDS_ATIF address=8.222.129.46
@@ -242,14 +247,18 @@
 /ip firewall address-list add list=BDS_ATIF address=14.103.133.100
 /ip firewall address-list add list=BDS_ATIF address=14.103.170.165
 /ip firewall address-list add list=BDS_ATIF address=14.103.181.255
+/ip firewall address-list add list=BDS_ATIF address=14.103.240.104
+/ip firewall address-list add list=BDS_ATIF address=14.103.242.166
 /ip firewall address-list add list=BDS_ATIF address=14.116.172.232
 /ip firewall address-list add list=BDS_ATIF address=14.161.9.170
 /ip firewall address-list add list=BDS_ATIF address=14.161.30.26
 /ip firewall address-list add list=BDS_ATIF address=14.191.22.15
 /ip firewall address-list add list=BDS_ATIF address=14.191.64.134
+/ip firewall address-list add list=BDS_ATIF address=14.215.134.199
 /ip firewall address-list add list=BDS_ATIF address=14.224.149.47
 /ip firewall address-list add list=BDS_ATIF address=14.224.150.138
 /ip firewall address-list add list=BDS_ATIF address=14.239.65.141
+/ip firewall address-list add list=BDS_ATIF address=14.241.159.244
 /ip firewall address-list add list=BDS_ATIF address=14.241.229.29
 /ip firewall address-list add list=BDS_ATIF address=15.204.37.16
 /ip firewall address-list add list=BDS_ATIF address=15.204.37.20
@@ -348,6 +357,7 @@
 /ip firewall address-list add list=BDS_ATIF address=18.224.138.83
 /ip firewall address-list add list=BDS_ATIF address=18.225.9.186
 /ip firewall address-list add list=BDS_ATIF address=18.227.105.187
+/ip firewall address-list add list=BDS_ATIF address=20.15.162.74
 /ip firewall address-list add list=BDS_ATIF address=20.15.226.117
 /ip firewall address-list add list=BDS_ATIF address=20.29.20.68
 /ip firewall address-list add list=BDS_ATIF address=20.29.23.70
@@ -362,7 +372,9 @@
 /ip firewall address-list add list=BDS_ATIF address=20.29.45.231
 /ip firewall address-list add list=BDS_ATIF address=20.29.46.60
 /ip firewall address-list add list=BDS_ATIF address=20.29.46.247
+/ip firewall address-list add list=BDS_ATIF address=20.29.47.110
 /ip firewall address-list add list=BDS_ATIF address=20.29.49.93
+/ip firewall address-list add list=BDS_ATIF address=20.40.216.95
 /ip firewall address-list add list=BDS_ATIF address=20.40.254.135
 /ip firewall address-list add list=BDS_ATIF address=20.43.57.82
 /ip firewall address-list add list=BDS_ATIF address=20.46.243.190
@@ -376,28 +388,35 @@
 /ip firewall address-list add list=BDS_ATIF address=20.64.104.94
 /ip firewall address-list add list=BDS_ATIF address=20.64.104.154
 /ip firewall address-list add list=BDS_ATIF address=20.64.104.235
+/ip firewall address-list add list=BDS_ATIF address=20.64.105.9
 /ip firewall address-list add list=BDS_ATIF address=20.64.105.39
 /ip firewall address-list add list=BDS_ATIF address=20.64.105.41
 /ip firewall address-list add list=BDS_ATIF address=20.64.105.55
 /ip firewall address-list add list=BDS_ATIF address=20.64.105.74
 /ip firewall address-list add list=BDS_ATIF address=20.64.105.124
+/ip firewall address-list add list=BDS_ATIF address=20.64.105.126
 /ip firewall address-list add list=BDS_ATIF address=20.64.105.127
+/ip firewall address-list add list=BDS_ATIF address=20.64.105.155
 /ip firewall address-list add list=BDS_ATIF address=20.64.105.169
 /ip firewall address-list add list=BDS_ATIF address=20.64.105.186
 /ip firewall address-list add list=BDS_ATIF address=20.64.105.234
 /ip firewall address-list add list=BDS_ATIF address=20.64.105.235
 /ip firewall address-list add list=BDS_ATIF address=20.64.105.252
 /ip firewall address-list add list=BDS_ATIF address=20.64.106.28
+/ip firewall address-list add list=BDS_ATIF address=20.64.106.77
+/ip firewall address-list add list=BDS_ATIF address=20.65.145.247
 /ip firewall address-list add list=BDS_ATIF address=20.65.154.83
 /ip firewall address-list add list=BDS_ATIF address=20.65.185.115
 /ip firewall address-list add list=BDS_ATIF address=20.65.192.170
 /ip firewall address-list add list=BDS_ATIF address=20.65.193.0
 /ip firewall address-list add list=BDS_ATIF address=20.65.193.82
+/ip firewall address-list add list=BDS_ATIF address=20.65.193.94
 /ip firewall address-list add list=BDS_ATIF address=20.65.193.104
 /ip firewall address-list add list=BDS_ATIF address=20.65.193.105
 /ip firewall address-list add list=BDS_ATIF address=20.65.193.148
 /ip firewall address-list add list=BDS_ATIF address=20.65.193.155
 /ip firewall address-list add list=BDS_ATIF address=20.65.193.183
+/ip firewall address-list add list=BDS_ATIF address=20.65.193.190
 /ip firewall address-list add list=BDS_ATIF address=20.65.193.195
 /ip firewall address-list add list=BDS_ATIF address=20.65.193.198
 /ip firewall address-list add list=BDS_ATIF address=20.65.193.199
@@ -431,9 +450,11 @@
 /ip firewall address-list add list=BDS_ATIF address=20.65.195.32
 /ip firewall address-list add list=BDS_ATIF address=20.65.195.33
 /ip firewall address-list add list=BDS_ATIF address=20.65.195.49
+/ip firewall address-list add list=BDS_ATIF address=20.65.195.61
 /ip firewall address-list add list=BDS_ATIF address=20.65.195.62
 /ip firewall address-list add list=BDS_ATIF address=20.65.195.108
 /ip firewall address-list add list=BDS_ATIF address=20.65.195.109
+/ip firewall address-list add list=BDS_ATIF address=20.65.195.113
 /ip firewall address-list add list=BDS_ATIF address=20.65.195.126
 /ip firewall address-list add list=BDS_ATIF address=20.65.217.81
 /ip firewall address-list add list=BDS_ATIF address=20.65.224.144
@@ -467,6 +488,7 @@
 /ip firewall address-list add list=BDS_ATIF address=20.98.141.4
 /ip firewall address-list add list=BDS_ATIF address=20.106.48.191
 /ip firewall address-list add list=BDS_ATIF address=20.106.169.58
+/ip firewall address-list add list=BDS_ATIF address=20.118.200.88
 /ip firewall address-list add list=BDS_ATIF address=20.118.209.70
 /ip firewall address-list add list=BDS_ATIF address=20.118.210.163
 /ip firewall address-list add list=BDS_ATIF address=20.118.232.88
@@ -505,6 +527,7 @@
 /ip firewall address-list add list=BDS_ATIF address=20.150.205.154
 /ip firewall address-list add list=BDS_ATIF address=20.150.205.252
 /ip firewall address-list add list=BDS_ATIF address=20.150.207.247
+/ip firewall address-list add list=BDS_ATIF address=20.163.5.98
 /ip firewall address-list add list=BDS_ATIF address=20.163.6.54
 /ip firewall address-list add list=BDS_ATIF address=20.163.10.187
 /ip firewall address-list add list=BDS_ATIF address=20.163.13.196
@@ -517,8 +540,11 @@
 /ip firewall address-list add list=BDS_ATIF address=20.163.15.97
 /ip firewall address-list add list=BDS_ATIF address=20.163.15.131
 /ip firewall address-list add list=BDS_ATIF address=20.163.15.167
+/ip firewall address-list add list=BDS_ATIF address=20.163.15.207
 /ip firewall address-list add list=BDS_ATIF address=20.163.16.228
 /ip firewall address-list add list=BDS_ATIF address=20.168.0.47
+/ip firewall address-list add list=BDS_ATIF address=20.168.0.134
+/ip firewall address-list add list=BDS_ATIF address=20.168.5.42
 /ip firewall address-list add list=BDS_ATIF address=20.168.5.222
 /ip firewall address-list add list=BDS_ATIF address=20.168.6.79
 /ip firewall address-list add list=BDS_ATIF address=20.168.7.11
@@ -526,6 +552,7 @@
 /ip firewall address-list add list=BDS_ATIF address=20.168.7.136
 /ip firewall address-list add list=BDS_ATIF address=20.168.7.168
 /ip firewall address-list add list=BDS_ATIF address=20.168.15.154
+/ip firewall address-list add list=BDS_ATIF address=20.168.113.228
 /ip firewall address-list add list=BDS_ATIF address=20.168.121.140
 /ip firewall address-list add list=BDS_ATIF address=20.168.121.143
 /ip firewall address-list add list=BDS_ATIF address=20.168.122.16
@@ -533,10 +560,12 @@
 /ip firewall address-list add list=BDS_ATIF address=20.168.122.37
 /ip firewall address-list add list=BDS_ATIF address=20.168.122.52
 /ip firewall address-list add list=BDS_ATIF address=20.168.122.53
+/ip firewall address-list add list=BDS_ATIF address=20.168.122.60
 /ip firewall address-list add list=BDS_ATIF address=20.168.125.90
 /ip firewall address-list add list=BDS_ATIF address=20.168.127.155
 /ip firewall address-list add list=BDS_ATIF address=20.169.104.58
 /ip firewall address-list add list=BDS_ATIF address=20.169.104.111
+/ip firewall address-list add list=BDS_ATIF address=20.169.104.246
 /ip firewall address-list add list=BDS_ATIF address=20.169.105.14
 /ip firewall address-list add list=BDS_ATIF address=20.169.105.30
 /ip firewall address-list add list=BDS_ATIF address=20.169.105.51
@@ -568,6 +597,7 @@
 /ip firewall address-list add list=BDS_ATIF address=20.171.31.231
 /ip firewall address-list add list=BDS_ATIF address=20.186.232.26
 /ip firewall address-list add list=BDS_ATIF address=20.193.135.160
+/ip firewall address-list add list=BDS_ATIF address=20.221.57.77
 /ip firewall address-list add list=BDS_ATIF address=20.221.65.106
 /ip firewall address-list add list=BDS_ATIF address=20.221.65.205
 /ip firewall address-list add list=BDS_ATIF address=20.221.66.73
@@ -576,6 +606,7 @@
 /ip firewall address-list add list=BDS_ATIF address=20.221.66.247
 /ip firewall address-list add list=BDS_ATIF address=20.221.67.254
 /ip firewall address-list add list=BDS_ATIF address=23.94.37.40
+/ip firewall address-list add list=BDS_ATIF address=23.94.89.213
 /ip firewall address-list add list=BDS_ATIF address=23.94.99.14
 /ip firewall address-list add list=BDS_ATIF address=23.94.186.206
 /ip firewall address-list add list=BDS_ATIF address=23.239.12.55
@@ -606,6 +637,7 @@
 /ip firewall address-list add list=BDS_ATIF address=34.78.183.19
 /ip firewall address-list add list=BDS_ATIF address=34.78.196.158
 /ip firewall address-list add list=BDS_ATIF address=34.79.2.83
+/ip firewall address-list add list=BDS_ATIF address=34.79.33.180
 /ip firewall address-list add list=BDS_ATIF address=34.79.92.92
 /ip firewall address-list add list=BDS_ATIF address=34.79.161.19
 /ip firewall address-list add list=BDS_ATIF address=34.136.20.169
@@ -617,6 +649,7 @@
 /ip firewall address-list add list=BDS_ATIF address=34.140.249.122
 /ip firewall address-list add list=BDS_ATIF address=34.220.103.44
 /ip firewall address-list add list=BDS_ATIF address=34.222.252.128
+/ip firewall address-list add list=BDS_ATIF address=35.85.253.244
 /ip firewall address-list add list=BDS_ATIF address=35.131.218.210
 /ip firewall address-list add list=BDS_ATIF address=35.160.237.203
 /ip firewall address-list add list=BDS_ATIF address=35.173.200.249
@@ -628,6 +661,8 @@
 /ip firewall address-list add list=BDS_ATIF address=35.203.210.36
 /ip firewall address-list add list=BDS_ATIF address=35.203.210.137
 /ip firewall address-list add list=BDS_ATIF address=35.203.210.150
+/ip firewall address-list add list=BDS_ATIF address=35.203.210.159
+/ip firewall address-list add list=BDS_ATIF address=35.203.210.183
 /ip firewall address-list add list=BDS_ATIF address=35.203.210.199
 /ip firewall address-list add list=BDS_ATIF address=35.203.210.248
 /ip firewall address-list add list=BDS_ATIF address=35.203.211.35
@@ -638,6 +673,7 @@
 /ip firewall address-list add list=BDS_ATIF address=35.216.134.165
 /ip firewall address-list add list=BDS_ATIF address=35.216.134.194
 /ip firewall address-list add list=BDS_ATIF address=35.216.165.168
+/ip firewall address-list add list=BDS_ATIF address=35.216.176.127
 /ip firewall address-list add list=BDS_ATIF address=35.216.180.98
 /ip firewall address-list add list=BDS_ATIF address=35.216.200.199
 /ip firewall address-list add list=BDS_ATIF address=35.216.207.57
@@ -657,6 +693,7 @@
 /ip firewall address-list add list=BDS_ATIF address=36.92.84.132
 /ip firewall address-list add list=BDS_ATIF address=36.106.166.201
 /ip firewall address-list add list=BDS_ATIF address=36.106.167.180
+/ip firewall address-list add list=BDS_ATIF address=36.156.22.4
 /ip firewall address-list add list=BDS_ATIF address=36.156.152.109
 /ip firewall address-list add list=BDS_ATIF address=36.213.145.109
 /ip firewall address-list add list=BDS_ATIF address=36.226.201.213
@@ -694,6 +731,7 @@
 /ip firewall address-list add list=BDS_ATIF address=40.124.127.239
 /ip firewall address-list add list=BDS_ATIF address=40.124.170.45
 /ip firewall address-list add list=BDS_ATIF address=40.124.173.2
+/ip firewall address-list add list=BDS_ATIF address=40.124.173.168
 /ip firewall address-list add list=BDS_ATIF address=40.124.173.224
 /ip firewall address-list add list=BDS_ATIF address=40.124.173.251
 /ip firewall address-list add list=BDS_ATIF address=40.124.175.5
@@ -728,6 +766,7 @@
 /ip firewall address-list add list=BDS_ATIF address=42.119.80.71
 /ip firewall address-list add list=BDS_ATIF address=42.180.130.120
 /ip firewall address-list add list=BDS_ATIF address=42.200.150.157
+/ip firewall address-list add list=BDS_ATIF address=42.236.73.172
 /ip firewall address-list add list=BDS_ATIF address=42.236.74.187
 /ip firewall address-list add list=BDS_ATIF address=43.132.196.160
 /ip firewall address-list add list=BDS_ATIF address=43.134.129.51
@@ -736,6 +775,7 @@
 /ip firewall address-list add list=BDS_ATIF address=43.225.168.78
 /ip firewall address-list add list=BDS_ATIF address=43.248.108.60
 /ip firewall address-list add list=BDS_ATIF address=43.248.108.69
+/ip firewall address-list add list=BDS_ATIF address=43.248.108.85
 /ip firewall address-list add list=BDS_ATIF address=44.220.185.94
 /ip firewall address-list add list=BDS_ATIF address=44.220.185.129
 /ip firewall address-list add list=BDS_ATIF address=44.220.185.132
@@ -761,6 +801,7 @@
 /ip firewall address-list add list=BDS_ATIF address=45.56.104.212
 /ip firewall address-list add list=BDS_ATIF address=45.56.110.153
 /ip firewall address-list add list=BDS_ATIF address=45.56.121.40
+/ip firewall address-list add list=BDS_ATIF address=45.64.134.75
 /ip firewall address-list add list=BDS_ATIF address=45.79.73.139
 /ip firewall address-list add list=BDS_ATIF address=45.79.73.217
 /ip firewall address-list add list=BDS_ATIF address=45.79.128.205
@@ -773,6 +814,7 @@
 /ip firewall address-list add list=BDS_ATIF address=45.79.181.223
 /ip firewall address-list add list=BDS_ATIF address=45.79.181.251
 /ip firewall address-list add list=BDS_ATIF address=45.84.241.245
+/ip firewall address-list add list=BDS_ATIF address=45.86.155.180
 /ip firewall address-list add list=BDS_ATIF address=45.86.229.235
 /ip firewall address-list add list=BDS_ATIF address=45.91.171.169
 /ip firewall address-list add list=BDS_ATIF address=45.91.171.220
@@ -781,16 +823,19 @@
 /ip firewall address-list add list=BDS_ATIF address=45.116.112.195
 /ip firewall address-list add list=BDS_ATIF address=45.122.123.84
 /ip firewall address-list add list=BDS_ATIF address=45.125.66.64
+/ip firewall address-list add list=BDS_ATIF address=45.125.66.85
 /ip firewall address-list add list=BDS_ATIF address=45.132.194.25
 /ip firewall address-list add list=BDS_ATIF address=45.134.26.238
 /ip firewall address-list add list=BDS_ATIF address=45.134.225.133
 /ip firewall address-list add list=BDS_ATIF address=45.135.193.100
+/ip firewall address-list add list=BDS_ATIF address=45.140.17.52
 /ip firewall address-list add list=BDS_ATIF address=45.140.17.102
 /ip firewall address-list add list=BDS_ATIF address=45.141.233.27
 /ip firewall address-list add list=BDS_ATIF address=45.142.179.151
 /ip firewall address-list add list=BDS_ATIF address=45.142.193.131
 /ip firewall address-list add list=BDS_ATIF address=45.144.212.59
 /ip firewall address-list add list=BDS_ATIF address=45.144.212.75
+/ip firewall address-list add list=BDS_ATIF address=45.144.212.157
 /ip firewall address-list add list=BDS_ATIF address=45.144.212.215
 /ip firewall address-list add list=BDS_ATIF address=45.147.250.208
 /ip firewall address-list add list=BDS_ATIF address=45.147.250.222
@@ -852,6 +897,7 @@
 /ip firewall address-list add list=BDS_ATIF address=47.88.14.121
 /ip firewall address-list add list=BDS_ATIF address=47.88.28.80
 /ip firewall address-list add list=BDS_ATIF address=47.89.178.238
+/ip firewall address-list add list=BDS_ATIF address=47.91.30.139
 /ip firewall address-list add list=BDS_ATIF address=47.91.121.27
 /ip firewall address-list add list=BDS_ATIF address=47.93.81.231
 /ip firewall address-list add list=BDS_ATIF address=47.97.44.233
@@ -895,6 +941,7 @@
 /ip firewall address-list add list=BDS_ATIF address=49.248.32.26
 /ip firewall address-list add list=BDS_ATIF address=50.60.117.242
 /ip firewall address-list add list=BDS_ATIF address=51.15.17.2
+/ip firewall address-list add list=BDS_ATIF address=51.38.239.193
 /ip firewall address-list add list=BDS_ATIF address=51.79.4.11
 /ip firewall address-list add list=BDS_ATIF address=51.81.144.36
 /ip firewall address-list add list=BDS_ATIF address=51.81.144.40
@@ -936,6 +983,8 @@
 /ip firewall address-list add list=BDS_ATIF address=52.142.43.71
 /ip firewall address-list add list=BDS_ATIF address=52.142.57.37
 /ip firewall address-list add list=BDS_ATIF address=52.146.95.130
+/ip firewall address-list add list=BDS_ATIF address=52.165.80.210
+/ip firewall address-list add list=BDS_ATIF address=52.165.82.210
 /ip firewall address-list add list=BDS_ATIF address=52.169.144.136
 /ip firewall address-list add list=BDS_ATIF address=52.174.144.106
 /ip firewall address-list add list=BDS_ATIF address=52.180.137.191
@@ -955,11 +1004,13 @@
 /ip firewall address-list add list=BDS_ATIF address=58.59.246.234
 /ip firewall address-list add list=BDS_ATIF address=58.59.246.239
 /ip firewall address-list add list=BDS_ATIF address=58.76.26.166
+/ip firewall address-list add list=BDS_ATIF address=58.95.81.50
 /ip firewall address-list add list=BDS_ATIF address=58.97.171.115
 /ip firewall address-list add list=BDS_ATIF address=58.211.18.68
 /ip firewall address-list add list=BDS_ATIF address=58.212.237.63
 /ip firewall address-list add list=BDS_ATIF address=58.212.237.71
 /ip firewall address-list add list=BDS_ATIF address=58.215.197.62
+/ip firewall address-list add list=BDS_ATIF address=58.216.212.238
 /ip firewall address-list add list=BDS_ATIF address=58.218.199.219
 /ip firewall address-list add list=BDS_ATIF address=59.16.30.6
 /ip firewall address-list add list=BDS_ATIF address=59.22.30.67
@@ -977,6 +1028,7 @@
 /ip firewall address-list add list=BDS_ATIF address=60.13.138.112
 /ip firewall address-list add list=BDS_ATIF address=60.13.138.221
 /ip firewall address-list add list=BDS_ATIF address=60.16.223.228
+/ip firewall address-list add list=BDS_ATIF address=60.21.101.138
 /ip firewall address-list add list=BDS_ATIF address=60.23.54.94
 /ip firewall address-list add list=BDS_ATIF address=60.28.24.243
 /ip firewall address-list add list=BDS_ATIF address=60.161.135.52
@@ -1000,6 +1052,7 @@
 /ip firewall address-list add list=BDS_ATIF address=61.221.207.130
 /ip firewall address-list add list=BDS_ATIF address=61.247.230.156
 /ip firewall address-list add list=BDS_ATIF address=62.60.191.176
+/ip firewall address-list add list=BDS_ATIF address=62.118.92.248
 /ip firewall address-list add list=BDS_ATIF address=62.210.24.128
 /ip firewall address-list add list=BDS_ATIF address=62.215.110.34
 /ip firewall address-list add list=BDS_ATIF address=62.215.110.43
@@ -1053,6 +1106,7 @@
 /ip firewall address-list add list=BDS_ATIF address=64.62.156.145
 /ip firewall address-list add list=BDS_ATIF address=64.62.156.151
 /ip firewall address-list add list=BDS_ATIF address=64.62.156.152
+/ip firewall address-list add list=BDS_ATIF address=64.62.156.154
 /ip firewall address-list add list=BDS_ATIF address=64.62.156.156
 /ip firewall address-list add list=BDS_ATIF address=64.62.156.157
 /ip firewall address-list add list=BDS_ATIF address=64.62.156.165
@@ -1065,11 +1119,13 @@
 /ip firewall address-list add list=BDS_ATIF address=64.62.156.192
 /ip firewall address-list add list=BDS_ATIF address=64.62.156.195
 /ip firewall address-list add list=BDS_ATIF address=64.62.156.198
+/ip firewall address-list add list=BDS_ATIF address=64.62.156.199
 /ip firewall address-list add list=BDS_ATIF address=64.62.156.200
 /ip firewall address-list add list=BDS_ATIF address=64.62.156.201
 /ip firewall address-list add list=BDS_ATIF address=64.62.156.202
 /ip firewall address-list add list=BDS_ATIF address=64.62.156.205
 /ip firewall address-list add list=BDS_ATIF address=64.62.156.207
+/ip firewall address-list add list=BDS_ATIF address=64.62.156.224
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.8
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.12
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.22
@@ -1105,11 +1161,16 @@
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.110
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.115
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.122
+/ip firewall address-list add list=BDS_ATIF address=64.62.197.124
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.137
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.140
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.142
+/ip firewall address-list add list=BDS_ATIF address=64.62.197.143
+/ip firewall address-list add list=BDS_ATIF address=64.62.197.146
+/ip firewall address-list add list=BDS_ATIF address=64.62.197.147
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.149
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.150
+/ip firewall address-list add list=BDS_ATIF address=64.62.197.152
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.154
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.163
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.165
@@ -1122,6 +1183,8 @@
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.181
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.183
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.184
+/ip firewall address-list add list=BDS_ATIF address=64.62.197.186
+/ip firewall address-list add list=BDS_ATIF address=64.62.197.189
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.195
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.198
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.202
@@ -1132,6 +1195,7 @@
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.217
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.218
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.227
+/ip firewall address-list add list=BDS_ATIF address=64.62.197.229
 /ip firewall address-list add list=BDS_ATIF address=64.62.197.230
 /ip firewall address-list add list=BDS_ATIF address=64.225.51.195
 /ip firewall address-list add list=BDS_ATIF address=64.225.96.164
@@ -1143,6 +1207,7 @@
 /ip firewall address-list add list=BDS_ATIF address=64.226.92.81
 /ip firewall address-list add list=BDS_ATIF address=64.226.120.42
 /ip firewall address-list add list=BDS_ATIF address=64.227.0.197
+/ip firewall address-list add list=BDS_ATIF address=64.227.31.113
 /ip firewall address-list add list=BDS_ATIF address=64.227.70.84
 /ip firewall address-list add list=BDS_ATIF address=64.227.93.39
 /ip firewall address-list add list=BDS_ATIF address=64.227.97.195
@@ -1168,6 +1233,7 @@
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.66
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.67
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.71
+/ip firewall address-list add list=BDS_ATIF address=65.49.1.77
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.87
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.93
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.94
@@ -1180,11 +1246,14 @@
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.129
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.131
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.132
+/ip firewall address-list add list=BDS_ATIF address=65.49.1.134
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.139
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.140
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.142
+/ip firewall address-list add list=BDS_ATIF address=65.49.1.143
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.146
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.149
+/ip firewall address-list add list=BDS_ATIF address=65.49.1.150
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.152
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.157
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.158
@@ -1205,6 +1274,7 @@
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.229
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.230
 /ip firewall address-list add list=BDS_ATIF address=65.49.1.240
+/ip firewall address-list add list=BDS_ATIF address=65.49.1.241
 /ip firewall address-list add list=BDS_ATIF address=65.49.20.66
 /ip firewall address-list add list=BDS_ATIF address=65.49.20.67
 /ip firewall address-list add list=BDS_ATIF address=65.49.20.68
@@ -1236,7 +1306,9 @@
 /ip firewall address-list add list=BDS_ATIF address=66.63.187.185
 /ip firewall address-list add list=BDS_ATIF address=66.63.187.198
 /ip firewall address-list add list=BDS_ATIF address=66.63.187.208
+/ip firewall address-list add list=BDS_ATIF address=66.63.187.211
 /ip firewall address-list add list=BDS_ATIF address=66.63.187.219
+/ip firewall address-list add list=BDS_ATIF address=66.63.187.222
 /ip firewall address-list add list=BDS_ATIF address=66.94.98.249
 /ip firewall address-list add list=BDS_ATIF address=66.94.99.12
 /ip firewall address-list add list=BDS_ATIF address=66.175.211.65
@@ -1252,6 +1324,7 @@
 /ip firewall address-list add list=BDS_ATIF address=66.240.236.116
 /ip firewall address-list add list=BDS_ATIF address=66.240.236.119
 /ip firewall address-list add list=BDS_ATIF address=66.242.158.192
+/ip firewall address-list add list=BDS_ATIF address=67.205.153.237
 /ip firewall address-list add list=BDS_ATIF address=67.255.101.21
 /ip firewall address-list add list=BDS_ATIF address=68.69.184.218
 /ip firewall address-list add list=BDS_ATIF address=68.69.186.46
@@ -1279,6 +1352,7 @@
 /ip firewall address-list add list=BDS_ATIF address=71.6.165.200
 /ip firewall address-list add list=BDS_ATIF address=71.6.167.142
 /ip firewall address-list add list=BDS_ATIF address=71.6.199.23
+/ip firewall address-list add list=BDS_ATIF address=71.6.199.65
 /ip firewall address-list add list=BDS_ATIF address=71.6.199.87
 /ip firewall address-list add list=BDS_ATIF address=71.6.232.20
 /ip firewall address-list add list=BDS_ATIF address=71.6.232.22
@@ -1467,6 +1541,7 @@
 /ip firewall address-list add list=BDS_ATIF address=83.110.143.127
 /ip firewall address-list add list=BDS_ATIF address=83.168.110.5
 /ip firewall address-list add list=BDS_ATIF address=83.218.189.32
+/ip firewall address-list add list=BDS_ATIF address=83.222.190.190
 /ip firewall address-list add list=BDS_ATIF address=83.222.190.254
 /ip firewall address-list add list=BDS_ATIF address=83.222.191.130
 /ip firewall address-list add list=BDS_ATIF address=83.222.191.218
@@ -1480,6 +1555,7 @@
 /ip firewall address-list add list=BDS_ATIF address=84.235.239.179
 /ip firewall address-list add list=BDS_ATIF address=85.50.194.51
 /ip firewall address-list add list=BDS_ATIF address=85.85.196.35
+/ip firewall address-list add list=BDS_ATIF address=85.91.96.206
 /ip firewall address-list add list=BDS_ATIF address=85.96.209.212
 /ip firewall address-list add list=BDS_ATIF address=85.99.115.22
 /ip firewall address-list add list=BDS_ATIF address=85.113.28.180
@@ -1494,6 +1570,7 @@
 /ip firewall address-list add list=BDS_ATIF address=86.54.31.38
 /ip firewall address-list add list=BDS_ATIF address=86.54.31.42
 /ip firewall address-list add list=BDS_ATIF address=86.54.42.193
+/ip firewall address-list add list=BDS_ATIF address=86.54.42.213
 /ip firewall address-list add list=BDS_ATIF address=86.99.16.199
 /ip firewall address-list add list=BDS_ATIF address=86.100.15.75
 /ip firewall address-list add list=BDS_ATIF address=86.153.71.38
@@ -1505,6 +1582,7 @@
 /ip firewall address-list add list=BDS_ATIF address=87.106.231.218
 /ip firewall address-list add list=BDS_ATIF address=87.121.84.37
 /ip firewall address-list add list=BDS_ATIF address=87.121.84.211
+/ip firewall address-list add list=BDS_ATIF address=87.236.176.15
 /ip firewall address-list add list=BDS_ATIF address=87.236.176.31
 /ip firewall address-list add list=BDS_ATIF address=87.236.176.41
 /ip firewall address-list add list=BDS_ATIF address=87.236.176.42
@@ -1537,6 +1615,8 @@
 /ip firewall address-list add list=BDS_ATIF address=87.236.176.179
 /ip firewall address-list add list=BDS_ATIF address=87.236.176.195
 /ip firewall address-list add list=BDS_ATIF address=87.236.176.198
+/ip firewall address-list add list=BDS_ATIF address=87.236.176.201
+/ip firewall address-list add list=BDS_ATIF address=87.236.176.206
 /ip firewall address-list add list=BDS_ATIF address=87.236.176.209
 /ip firewall address-list add list=BDS_ATIF address=87.236.176.218
 /ip firewall address-list add list=BDS_ATIF address=87.236.176.221
@@ -1613,6 +1693,9 @@
 /ip firewall address-list add list=BDS_ATIF address=91.196.152.116
 /ip firewall address-list add list=BDS_ATIF address=91.196.152.119
 /ip firewall address-list add list=BDS_ATIF address=91.196.152.120
+/ip firewall address-list add list=BDS_ATIF address=91.196.152.121
+/ip firewall address-list add list=BDS_ATIF address=91.196.152.125
+/ip firewall address-list add list=BDS_ATIF address=91.196.152.127
 /ip firewall address-list add list=BDS_ATIF address=91.196.152.146
 /ip firewall address-list add list=BDS_ATIF address=91.196.152.148
 /ip firewall address-list add list=BDS_ATIF address=91.196.152.149
@@ -1627,6 +1710,8 @@
 /ip firewall address-list add list=BDS_ATIF address=91.196.152.177
 /ip firewall address-list add list=BDS_ATIF address=91.196.152.178
 /ip firewall address-list add list=BDS_ATIF address=91.196.152.179
+/ip firewall address-list add list=BDS_ATIF address=91.196.152.180
+/ip firewall address-list add list=BDS_ATIF address=91.196.152.181
 /ip firewall address-list add list=BDS_ATIF address=91.196.152.183
 /ip firewall address-list add list=BDS_ATIF address=91.196.152.184
 /ip firewall address-list add list=BDS_ATIF address=91.196.152.185
@@ -1730,12 +1815,14 @@
 /ip firewall address-list add list=BDS_ATIF address=98.80.4.94
 /ip firewall address-list add list=BDS_ATIF address=98.80.4.100
 /ip firewall address-list add list=BDS_ATIF address=98.80.4.117
+/ip firewall address-list add list=BDS_ATIF address=98.98.100.148
 /ip firewall address-list add list=BDS_ATIF address=98.175.165.229
 /ip firewall address-list add list=BDS_ATIF address=101.36.97.70
 /ip firewall address-list add list=BDS_ATIF address=101.36.97.205
 /ip firewall address-list add list=BDS_ATIF address=101.36.104.212
 /ip firewall address-list add list=BDS_ATIF address=101.36.105.50
 /ip firewall address-list add list=BDS_ATIF address=101.36.114.209
+/ip firewall address-list add list=BDS_ATIF address=101.36.114.222
 /ip firewall address-list add list=BDS_ATIF address=101.44.76.235
 /ip firewall address-list add list=BDS_ATIF address=101.126.4.215
 /ip firewall address-list add list=BDS_ATIF address=101.126.5.109
@@ -1744,10 +1831,13 @@
 /ip firewall address-list add list=BDS_ATIF address=101.132.132.123
 /ip firewall address-list add list=BDS_ATIF address=101.200.243.197
 /ip firewall address-list add list=BDS_ATIF address=101.201.45.148
+/ip firewall address-list add list=BDS_ATIF address=102.23.195.45
 /ip firewall address-list add list=BDS_ATIF address=102.23.222.158
 /ip firewall address-list add list=BDS_ATIF address=102.33.30.190
+/ip firewall address-list add list=BDS_ATIF address=102.50.245.222
 /ip firewall address-list add list=BDS_ATIF address=102.66.195.42
 /ip firewall address-list add list=BDS_ATIF address=102.88.21.212
+/ip firewall address-list add list=BDS_ATIF address=102.88.21.215
 /ip firewall address-list add list=BDS_ATIF address=102.90.44.125
 /ip firewall address-list add list=BDS_ATIF address=102.90.80.98
 /ip firewall address-list add list=BDS_ATIF address=102.211.152.45
@@ -1784,6 +1874,7 @@
 /ip firewall address-list add list=BDS_ATIF address=103.91.187.228
 /ip firewall address-list add list=BDS_ATIF address=103.93.93.125
 /ip firewall address-list add list=BDS_ATIF address=103.93.137.44
+/ip firewall address-list add list=BDS_ATIF address=103.96.18.164
 /ip firewall address-list add list=BDS_ATIF address=103.99.37.150
 /ip firewall address-list add list=BDS_ATIF address=103.100.208.157
 /ip firewall address-list add list=BDS_ATIF address=103.101.118.5
@@ -1805,6 +1896,7 @@
 /ip firewall address-list add list=BDS_ATIF address=103.149.26.234
 /ip firewall address-list add list=BDS_ATIF address=103.156.92.135
 /ip firewall address-list add list=BDS_ATIF address=103.161.185.35
+/ip firewall address-list add list=BDS_ATIF address=103.161.198.147
 /ip firewall address-list add list=BDS_ATIF address=103.164.87.254
 /ip firewall address-list add list=BDS_ATIF address=103.165.210.205
 /ip firewall address-list add list=BDS_ATIF address=103.165.236.150
@@ -1829,6 +1921,7 @@
 /ip firewall address-list add list=BDS_ATIF address=103.199.19.109
 /ip firewall address-list add list=BDS_ATIF address=103.199.141.28
 /ip firewall address-list add list=BDS_ATIF address=103.199.173.133
+/ip firewall address-list add list=BDS_ATIF address=103.199.203.136
 /ip firewall address-list add list=BDS_ATIF address=103.203.57.11
 /ip firewall address-list add list=BDS_ATIF address=103.203.57.12
 /ip firewall address-list add list=BDS_ATIF address=103.203.59.5
@@ -1840,6 +1933,7 @@
 /ip firewall address-list add list=BDS_ATIF address=103.207.125.189
 /ip firewall address-list add list=BDS_ATIF address=103.212.182.190
 /ip firewall address-list add list=BDS_ATIF address=103.214.111.82
+/ip firewall address-list add list=BDS_ATIF address=103.218.25.33
 /ip firewall address-list add list=BDS_ATIF address=103.220.23.143
 /ip firewall address-list add list=BDS_ATIF address=103.226.248.116
 /ip firewall address-list add list=BDS_ATIF address=103.229.192.195
@@ -1851,6 +1945,7 @@
 /ip firewall address-list add list=BDS_ATIF address=103.252.12.242
 /ip firewall address-list add list=BDS_ATIF address=103.255.72.37
 /ip firewall address-list add list=BDS_ATIF address=104.28.235.60
+/ip firewall address-list add list=BDS_ATIF address=104.28.245.38
 /ip firewall address-list add list=BDS_ATIF address=104.43.105.248
 /ip firewall address-list add list=BDS_ATIF address=104.152.52.63
 /ip firewall address-list add list=BDS_ATIF address=104.152.52.67
@@ -1883,6 +1978,7 @@
 /ip firewall address-list add list=BDS_ATIF address=104.234.115.161
 /ip firewall address-list add list=BDS_ATIF address=104.234.115.164
 /ip firewall address-list add list=BDS_ATIF address=104.234.115.165
+/ip firewall address-list add list=BDS_ATIF address=104.234.115.169
 /ip firewall address-list add list=BDS_ATIF address=104.234.115.173
 /ip firewall address-list add list=BDS_ATIF address=104.234.115.180
 /ip firewall address-list add list=BDS_ATIF address=104.234.115.181
@@ -1890,6 +1986,7 @@
 /ip firewall address-list add list=BDS_ATIF address=104.234.115.199
 /ip firewall address-list add list=BDS_ATIF address=104.234.115.225
 /ip firewall address-list add list=BDS_ATIF address=104.234.115.231
+/ip firewall address-list add list=BDS_ATIF address=104.234.115.243
 /ip firewall address-list add list=BDS_ATIF address=104.234.115.247
 /ip firewall address-list add list=BDS_ATIF address=104.236.75.167
 /ip firewall address-list add list=BDS_ATIF address=104.236.121.127
@@ -1935,6 +2032,7 @@
 /ip firewall address-list add list=BDS_ATIF address=106.75.237.154
 /ip firewall address-list add list=BDS_ATIF address=107.126.217.49
 /ip firewall address-list add list=BDS_ATIF address=107.170.74.81
+/ip firewall address-list add list=BDS_ATIF address=107.174.224.18
 /ip firewall address-list add list=BDS_ATIF address=107.189.19.107
 /ip firewall address-list add list=BDS_ATIF address=107.189.30.66
 /ip firewall address-list add list=BDS_ATIF address=108.62.106.7
@@ -1948,6 +2046,7 @@
 /ip firewall address-list add list=BDS_ATIF address=110.138.119.131
 /ip firewall address-list add list=BDS_ATIF address=110.177.181.62
 /ip firewall address-list add list=BDS_ATIF address=110.177.181.163
+/ip firewall address-list add list=BDS_ATIF address=110.177.183.134
 /ip firewall address-list add list=BDS_ATIF address=110.185.161.56
 /ip firewall address-list add list=BDS_ATIF address=110.185.174.59
 /ip firewall address-list add list=BDS_ATIF address=110.188.66.227
@@ -1971,6 +2070,7 @@
 /ip firewall address-list add list=BDS_ATIF address=111.253.203.248
 /ip firewall address-list add list=BDS_ATIF address=112.6.14.93
 /ip firewall address-list add list=BDS_ATIF address=112.6.214.244
+/ip firewall address-list add list=BDS_ATIF address=112.16.185.112
 /ip firewall address-list add list=BDS_ATIF address=112.16.199.105
 /ip firewall address-list add list=BDS_ATIF address=112.43.32.231
 /ip firewall address-list add list=BDS_ATIF address=112.46.214.68
@@ -1980,6 +2080,7 @@
 /ip firewall address-list add list=BDS_ATIF address=112.115.155.131
 /ip firewall address-list add list=BDS_ATIF address=112.133.222.158
 /ip firewall address-list add list=BDS_ATIF address=112.167.232.96
+/ip firewall address-list add list=BDS_ATIF address=112.193.162.202
 /ip firewall address-list add list=BDS_ATIF address=112.217.111.18
 /ip firewall address-list add list=BDS_ATIF address=112.247.18.6
 /ip firewall address-list add list=BDS_ATIF address=113.11.231.168
@@ -1994,6 +2095,7 @@
 /ip firewall address-list add list=BDS_ATIF address=113.160.148.233
 /ip firewall address-list add list=BDS_ATIF address=113.160.185.58
 /ip firewall address-list add list=BDS_ATIF address=113.160.189.203
+/ip firewall address-list add list=BDS_ATIF address=113.160.200.171
 /ip firewall address-list add list=BDS_ATIF address=113.160.251.15
 /ip firewall address-list add list=BDS_ATIF address=113.161.46.26
 /ip firewall address-list add list=BDS_ATIF address=113.164.120.69
@@ -2038,8 +2140,10 @@
 /ip firewall address-list add list=BDS_ATIF address=116.110.83.76
 /ip firewall address-list add list=BDS_ATIF address=116.110.85.89
 /ip firewall address-list add list=BDS_ATIF address=116.113.105.30
+/ip firewall address-list add list=BDS_ATIF address=116.171.161.105
 /ip firewall address-list add list=BDS_ATIF address=116.172.201.10
 /ip firewall address-list add list=BDS_ATIF address=116.193.72.3
+/ip firewall address-list add list=BDS_ATIF address=116.205.133.203
 /ip firewall address-list add list=BDS_ATIF address=116.227.57.238
 /ip firewall address-list add list=BDS_ATIF address=116.229.106.207
 /ip firewall address-list add list=BDS_ATIF address=116.236.69.84
@@ -2059,6 +2163,7 @@
 /ip firewall address-list add list=BDS_ATIF address=117.88.101.71
 /ip firewall address-list add list=BDS_ATIF address=117.141.253.10
 /ip firewall address-list add list=BDS_ATIF address=117.151.197.70
+/ip firewall address-list add list=BDS_ATIF address=117.159.242.215
 /ip firewall address-list add list=BDS_ATIF address=117.204.26.143
 /ip firewall address-list add list=BDS_ATIF address=117.215.49.97
 /ip firewall address-list add list=BDS_ATIF address=117.216.47.197
@@ -2067,6 +2172,7 @@
 /ip firewall address-list add list=BDS_ATIF address=117.239.149.57
 /ip firewall address-list add list=BDS_ATIF address=117.247.66.114
 /ip firewall address-list add list=BDS_ATIF address=117.247.87.253
+/ip firewall address-list add list=BDS_ATIF address=118.25.101.40
 /ip firewall address-list add list=BDS_ATIF address=118.26.104.93
 /ip firewall address-list add list=BDS_ATIF address=118.26.111.94
 /ip firewall address-list add list=BDS_ATIF address=118.31.53.221
@@ -2089,6 +2195,7 @@
 /ip firewall address-list add list=BDS_ATIF address=118.193.68.150
 /ip firewall address-list add list=BDS_ATIF address=118.194.236.118
 /ip firewall address-list add list=BDS_ATIF address=118.194.236.142
+/ip firewall address-list add list=BDS_ATIF address=118.194.248.4
 /ip firewall address-list add list=BDS_ATIF address=118.194.248.105
 /ip firewall address-list add list=BDS_ATIF address=118.194.250.2
 /ip firewall address-list add list=BDS_ATIF address=118.194.251.101
@@ -2108,7 +2215,9 @@
 /ip firewall address-list add list=BDS_ATIF address=119.123.192.236
 /ip firewall address-list add list=BDS_ATIF address=119.157.83.202
 /ip firewall address-list add list=BDS_ATIF address=119.164.96.238
+/ip firewall address-list add list=BDS_ATIF address=119.188.250.168
 /ip firewall address-list add list=BDS_ATIF address=120.24.144.195
+/ip firewall address-list add list=BDS_ATIF address=120.25.164.205
 /ip firewall address-list add list=BDS_ATIF address=120.27.154.152
 /ip firewall address-list add list=BDS_ATIF address=120.33.81.217
 /ip firewall address-list add list=BDS_ATIF address=120.48.53.131
@@ -2191,7 +2300,9 @@
 /ip firewall address-list add list=BDS_ATIF address=125.82.243.176
 /ip firewall address-list add list=BDS_ATIF address=125.87.94.150
 /ip firewall address-list add list=BDS_ATIF address=125.118.213.11
+/ip firewall address-list add list=BDS_ATIF address=125.120.70.42
 /ip firewall address-list add list=BDS_ATIF address=125.120.80.198
+/ip firewall address-list add list=BDS_ATIF address=125.124.128.77
 /ip firewall address-list add list=BDS_ATIF address=125.160.159.198
 /ip firewall address-list add list=BDS_ATIF address=125.166.117.74
 /ip firewall address-list add list=BDS_ATIF address=125.209.73.246
@@ -2203,15 +2314,18 @@
 /ip firewall address-list add list=BDS_ATIF address=128.1.131.221
 /ip firewall address-list add list=BDS_ATIF address=128.14.227.55
 /ip firewall address-list add list=BDS_ATIF address=128.14.236.41
+/ip firewall address-list add list=BDS_ATIF address=128.14.237.43
 /ip firewall address-list add list=BDS_ATIF address=128.14.237.130
 /ip firewall address-list add list=BDS_ATIF address=128.199.1.184
 /ip firewall address-list add list=BDS_ATIF address=128.199.7.134
 /ip firewall address-list add list=BDS_ATIF address=128.199.8.36
 /ip firewall address-list add list=BDS_ATIF address=128.199.8.247
+/ip firewall address-list add list=BDS_ATIF address=128.199.19.240
 /ip firewall address-list add list=BDS_ATIF address=128.199.133.150
 /ip firewall address-list add list=BDS_ATIF address=128.203.201.21
 /ip firewall address-list add list=BDS_ATIF address=128.203.201.203
 /ip firewall address-list add list=BDS_ATIF address=128.203.201.204
+/ip firewall address-list add list=BDS_ATIF address=128.203.202.135
 /ip firewall address-list add list=BDS_ATIF address=128.203.202.236
 /ip firewall address-list add list=BDS_ATIF address=128.203.203.26
 /ip firewall address-list add list=BDS_ATIF address=128.203.203.82
@@ -2223,6 +2337,7 @@
 /ip firewall address-list add list=BDS_ATIF address=128.203.206.239
 /ip firewall address-list add list=BDS_ATIF address=128.203.207.79
 /ip firewall address-list add list=BDS_ATIF address=129.122.148.247
+/ip firewall address-list add list=BDS_ATIF address=129.154.208.243
 /ip firewall address-list add list=BDS_ATIF address=130.131.163.171
 /ip firewall address-list add list=BDS_ATIF address=130.255.92.97
 /ip firewall address-list add list=BDS_ATIF address=132.196.42.60
@@ -2230,10 +2345,14 @@
 /ip firewall address-list add list=BDS_ATIF address=132.255.212.20
 /ip firewall address-list add list=BDS_ATIF address=134.19.179.147
 /ip firewall address-list add list=BDS_ATIF address=134.119.180.102
+/ip firewall address-list add list=BDS_ATIF address=134.122.95.85
 /ip firewall address-list add list=BDS_ATIF address=134.122.112.20
 /ip firewall address-list add list=BDS_ATIF address=134.122.122.81
+/ip firewall address-list add list=BDS_ATIF address=134.122.169.142
+/ip firewall address-list add list=BDS_ATIF address=134.199.145.46
 /ip firewall address-list add list=BDS_ATIF address=134.199.161.16
 /ip firewall address-list add list=BDS_ATIF address=134.199.216.169
+/ip firewall address-list add list=BDS_ATIF address=134.199.223.134
 /ip firewall address-list add list=BDS_ATIF address=134.199.237.57
 /ip firewall address-list add list=BDS_ATIF address=134.209.5.135
 /ip firewall address-list add list=BDS_ATIF address=134.209.49.221
@@ -2267,6 +2386,7 @@
 /ip firewall address-list add list=BDS_ATIF address=135.237.126.232
 /ip firewall address-list add list=BDS_ATIF address=135.237.127.82
 /ip firewall address-list add list=BDS_ATIF address=135.237.127.112
+/ip firewall address-list add list=BDS_ATIF address=136.248.78.90
 /ip firewall address-list add list=BDS_ATIF address=137.74.181.240
 /ip firewall address-list add list=BDS_ATIF address=137.74.181.242
 /ip firewall address-list add list=BDS_ATIF address=137.74.181.244
@@ -2339,6 +2459,7 @@
 /ip firewall address-list add list=BDS_ATIF address=141.105.162.136
 /ip firewall address-list add list=BDS_ATIF address=142.44.212.226
 /ip firewall address-list add list=BDS_ATIF address=142.93.3.4
+/ip firewall address-list add list=BDS_ATIF address=142.93.5.251
 /ip firewall address-list add list=BDS_ATIF address=142.93.13.102
 /ip firewall address-list add list=BDS_ATIF address=142.93.13.195
 /ip firewall address-list add list=BDS_ATIF address=142.93.13.246
@@ -2353,6 +2474,7 @@
 /ip firewall address-list add list=BDS_ATIF address=143.0.49.200
 /ip firewall address-list add list=BDS_ATIF address=143.92.153.198
 /ip firewall address-list add list=BDS_ATIF address=143.92.154.13
+/ip firewall address-list add list=BDS_ATIF address=143.92.156.145
 /ip firewall address-list add list=BDS_ATIF address=143.92.190.213
 /ip firewall address-list add list=BDS_ATIF address=143.110.171.108
 /ip firewall address-list add list=BDS_ATIF address=143.198.12.108
@@ -2387,12 +2509,15 @@
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.13
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.27
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.28
+/ip firewall address-list add list=BDS_ATIF address=147.185.132.31
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.39
+/ip firewall address-list add list=BDS_ATIF address=147.185.132.40
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.45
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.46
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.48
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.49
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.55
+/ip firewall address-list add list=BDS_ATIF address=147.185.132.58
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.60
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.61
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.63
@@ -2402,6 +2527,7 @@
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.78
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.79
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.84
+/ip firewall address-list add list=BDS_ATIF address=147.185.132.85
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.88
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.91
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.93
@@ -2430,6 +2556,7 @@
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.189
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.192
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.195
+/ip firewall address-list add list=BDS_ATIF address=147.185.132.198
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.210
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.216
 /ip firewall address-list add list=BDS_ATIF address=147.185.132.219
@@ -2460,6 +2587,7 @@
 /ip firewall address-list add list=BDS_ATIF address=150.195.175.124
 /ip firewall address-list add list=BDS_ATIF address=150.241.123.43
 /ip firewall address-list add list=BDS_ATIF address=150.255.250.142
+/ip firewall address-list add list=BDS_ATIF address=151.115.90.142
 /ip firewall address-list add list=BDS_ATIF address=151.235.140.206
 /ip firewall address-list add list=BDS_ATIF address=151.238.130.91
 /ip firewall address-list add list=BDS_ATIF address=151.250.140.165
@@ -2488,6 +2616,7 @@
 /ip firewall address-list add list=BDS_ATIF address=152.32.225.11
 /ip firewall address-list add list=BDS_ATIF address=152.32.225.99
 /ip firewall address-list add list=BDS_ATIF address=152.32.234.39
+/ip firewall address-list add list=BDS_ATIF address=152.32.235.78
 /ip firewall address-list add list=BDS_ATIF address=152.32.235.85
 /ip firewall address-list add list=BDS_ATIF address=152.32.235.96
 /ip firewall address-list add list=BDS_ATIF address=152.32.236.116
@@ -2496,10 +2625,14 @@
 /ip firewall address-list add list=BDS_ATIF address=152.42.143.31
 /ip firewall address-list add list=BDS_ATIF address=152.42.186.25
 /ip firewall address-list add list=BDS_ATIF address=152.42.255.156
+/ip firewall address-list add list=BDS_ATIF address=152.53.52.195
+/ip firewall address-list add list=BDS_ATIF address=152.67.87.3
 /ip firewall address-list add list=BDS_ATIF address=152.117.111.81
 /ip firewall address-list add list=BDS_ATIF address=152.230.66.217
 /ip firewall address-list add list=BDS_ATIF address=152.233.246.127
+/ip firewall address-list add list=BDS_ATIF address=152.233.246.153
 /ip firewall address-list add list=BDS_ATIF address=152.234.100.114
+/ip firewall address-list add list=BDS_ATIF address=153.0.40.87
 /ip firewall address-list add list=BDS_ATIF address=153.0.43.68
 /ip firewall address-list add list=BDS_ATIF address=153.0.43.228
 /ip firewall address-list add list=BDS_ATIF address=153.101.67.190
@@ -2520,6 +2653,7 @@
 /ip firewall address-list add list=BDS_ATIF address=154.81.179.203
 /ip firewall address-list add list=BDS_ATIF address=154.81.179.217
 /ip firewall address-list add list=BDS_ATIF address=154.118.33.203
+/ip firewall address-list add list=BDS_ATIF address=154.118.179.60
 /ip firewall address-list add list=BDS_ATIF address=154.124.203.18
 /ip firewall address-list add list=BDS_ATIF address=154.125.57.219
 /ip firewall address-list add list=BDS_ATIF address=154.182.93.146
@@ -2548,6 +2682,7 @@
 /ip firewall address-list add list=BDS_ATIF address=154.212.141.180
 /ip firewall address-list add list=BDS_ATIF address=154.212.141.194
 /ip firewall address-list add list=BDS_ATIF address=154.212.141.215
+/ip firewall address-list add list=BDS_ATIF address=156.201.54.187
 /ip firewall address-list add list=BDS_ATIF address=156.229.233.18
 /ip firewall address-list add list=BDS_ATIF address=156.229.233.58
 /ip firewall address-list add list=BDS_ATIF address=156.229.233.109
@@ -2559,6 +2694,7 @@
 /ip firewall address-list add list=BDS_ATIF address=157.10.30.20
 /ip firewall address-list add list=BDS_ATIF address=157.92.147.170
 /ip firewall address-list add list=BDS_ATIF address=157.230.14.36
+/ip firewall address-list add list=BDS_ATIF address=157.230.107.39
 /ip firewall address-list add list=BDS_ATIF address=157.230.112.88
 /ip firewall address-list add list=BDS_ATIF address=157.230.153.118
 /ip firewall address-list add list=BDS_ATIF address=157.230.162.186
@@ -2570,6 +2706,7 @@
 /ip firewall address-list add list=BDS_ATIF address=157.245.104.150
 /ip firewall address-list add list=BDS_ATIF address=157.245.125.255
 /ip firewall address-list add list=BDS_ATIF address=157.245.129.227
+/ip firewall address-list add list=BDS_ATIF address=157.245.135.252
 /ip firewall address-list add list=BDS_ATIF address=157.245.230.224
 /ip firewall address-list add list=BDS_ATIF address=157.245.233.192
 /ip firewall address-list add list=BDS_ATIF address=157.245.238.152
@@ -2597,6 +2734,7 @@
 /ip firewall address-list add list=BDS_ATIF address=159.89.105.244
 /ip firewall address-list add list=BDS_ATIF address=159.89.237.190
 /ip firewall address-list add list=BDS_ATIF address=159.203.9.202
+/ip firewall address-list add list=BDS_ATIF address=159.203.30.22
 /ip firewall address-list add list=BDS_ATIF address=159.203.44.105
 /ip firewall address-list add list=BDS_ATIF address=159.223.73.195
 /ip firewall address-list add list=BDS_ATIF address=159.223.132.86
@@ -2638,11 +2776,13 @@
 /ip firewall address-list add list=BDS_ATIF address=161.97.72.122
 /ip firewall address-list add list=BDS_ATIF address=161.97.182.239
 /ip firewall address-list add list=BDS_ATIF address=161.132.55.181
+/ip firewall address-list add list=BDS_ATIF address=161.132.109.66
 /ip firewall address-list add list=BDS_ATIF address=161.189.90.122
 /ip firewall address-list add list=BDS_ATIF address=162.142.125.32
 /ip firewall address-list add list=BDS_ATIF address=162.142.125.33
 /ip firewall address-list add list=BDS_ATIF address=162.142.125.34
 /ip firewall address-list add list=BDS_ATIF address=162.142.125.37
+/ip firewall address-list add list=BDS_ATIF address=162.142.125.38
 /ip firewall address-list add list=BDS_ATIF address=162.142.125.41
 /ip firewall address-list add list=BDS_ATIF address=162.142.125.43
 /ip firewall address-list add list=BDS_ATIF address=162.142.125.45
@@ -2706,8 +2846,11 @@
 /ip firewall address-list add list=BDS_ATIF address=164.92.202.225
 /ip firewall address-list add list=BDS_ATIF address=164.92.210.70
 /ip firewall address-list add list=BDS_ATIF address=164.92.245.56
+/ip firewall address-list add list=BDS_ATIF address=164.132.229.95
 /ip firewall address-list add list=BDS_ATIF address=164.177.4.20
 /ip firewall address-list add list=BDS_ATIF address=164.177.4.21
+/ip firewall address-list add list=BDS_ATIF address=165.22.63.131
+/ip firewall address-list add list=BDS_ATIF address=165.22.80.139
 /ip firewall address-list add list=BDS_ATIF address=165.22.142.190
 /ip firewall address-list add list=BDS_ATIF address=165.22.179.185
 /ip firewall address-list add list=BDS_ATIF address=165.98.12.70
@@ -2723,10 +2866,12 @@
 /ip firewall address-list add list=BDS_ATIF address=165.154.41.182
 /ip firewall address-list add list=BDS_ATIF address=165.154.41.232
 /ip firewall address-list add list=BDS_ATIF address=165.154.48.24
+/ip firewall address-list add list=BDS_ATIF address=165.154.49.137
 /ip firewall address-list add list=BDS_ATIF address=165.154.59.118
 /ip firewall address-list add list=BDS_ATIF address=165.154.100.58
 /ip firewall address-list add list=BDS_ATIF address=165.154.104.235
 /ip firewall address-list add list=BDS_ATIF address=165.154.120.226
+/ip firewall address-list add list=BDS_ATIF address=165.154.128.17
 /ip firewall address-list add list=BDS_ATIF address=165.154.129.74
 /ip firewall address-list add list=BDS_ATIF address=165.154.129.188
 /ip firewall address-list add list=BDS_ATIF address=165.154.129.201
@@ -2747,12 +2892,15 @@
 /ip firewall address-list add list=BDS_ATIF address=165.154.217.232
 /ip firewall address-list add list=BDS_ATIF address=165.154.235.57
 /ip firewall address-list add list=BDS_ATIF address=165.154.252.156
+/ip firewall address-list add list=BDS_ATIF address=165.188.140.39
 /ip firewall address-list add list=BDS_ATIF address=165.210.33.44
 /ip firewall address-list add list=BDS_ATIF address=165.227.22.140
 /ip firewall address-list add list=BDS_ATIF address=165.227.43.174
 /ip firewall address-list add list=BDS_ATIF address=165.227.85.187
+/ip firewall address-list add list=BDS_ATIF address=165.227.87.112
 /ip firewall address-list add list=BDS_ATIF address=165.227.101.164
 /ip firewall address-list add list=BDS_ATIF address=165.227.147.215
+/ip firewall address-list add list=BDS_ATIF address=165.227.173.70
 /ip firewall address-list add list=BDS_ATIF address=165.232.37.88
 /ip firewall address-list add list=BDS_ATIF address=165.232.142.253
 /ip firewall address-list add list=BDS_ATIF address=165.232.143.53
@@ -2777,12 +2925,15 @@
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.47
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.48
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.50
+/ip firewall address-list add list=BDS_ATIF address=167.94.138.51
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.52
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.53
+/ip firewall address-list add list=BDS_ATIF address=167.94.138.56
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.58
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.61
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.62
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.63
+/ip firewall address-list add list=BDS_ATIF address=167.94.138.112
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.113
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.114
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.116
@@ -2791,6 +2942,7 @@
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.123
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.124
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.125
+/ip firewall address-list add list=BDS_ATIF address=167.94.138.161
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.163
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.165
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.171
@@ -2798,6 +2950,7 @@
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.173
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.174
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.176
+/ip firewall address-list add list=BDS_ATIF address=167.94.138.178
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.180
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.181
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.183
@@ -2813,6 +2966,7 @@
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.201
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.203
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.204
+/ip firewall address-list add list=BDS_ATIF address=167.94.138.205
 /ip firewall address-list add list=BDS_ATIF address=167.94.138.206
 /ip firewall address-list add list=BDS_ATIF address=167.94.145.96
 /ip firewall address-list add list=BDS_ATIF address=167.94.145.98
@@ -2849,6 +3003,7 @@
 /ip firewall address-list add list=BDS_ATIF address=167.99.147.128
 /ip firewall address-list add list=BDS_ATIF address=167.99.154.203
 /ip firewall address-list add list=BDS_ATIF address=167.99.210.141
+/ip firewall address-list add list=BDS_ATIF address=167.99.245.95
 /ip firewall address-list add list=BDS_ATIF address=167.99.255.167
 /ip firewall address-list add list=BDS_ATIF address=167.172.144.74
 /ip firewall address-list add list=BDS_ATIF address=167.172.164.211
@@ -2897,6 +3052,7 @@
 /ip firewall address-list add list=BDS_ATIF address=172.200.27.114
 /ip firewall address-list add list=BDS_ATIF address=172.202.112.2
 /ip firewall address-list add list=BDS_ATIF address=172.202.117.124
+/ip firewall address-list add list=BDS_ATIF address=172.202.117.171
 /ip firewall address-list add list=BDS_ATIF address=172.202.117.178
 /ip firewall address-list add list=BDS_ATIF address=172.202.118.11
 /ip firewall address-list add list=BDS_ATIF address=172.202.118.17
@@ -2932,6 +3088,7 @@
 /ip firewall address-list add list=BDS_ATIF address=173.225.111.171
 /ip firewall address-list add list=BDS_ATIF address=173.230.153.94
 /ip firewall address-list add list=BDS_ATIF address=173.249.11.251
+/ip firewall address-list add list=BDS_ATIF address=173.255.236.119
 /ip firewall address-list add list=BDS_ATIF address=173.255.238.62
 /ip firewall address-list add list=BDS_ATIF address=174.79.193.194
 /ip firewall address-list add list=BDS_ATIF address=174.138.52.189
@@ -2961,6 +3118,7 @@
 /ip firewall address-list add list=BDS_ATIF address=176.224.110.220
 /ip firewall address-list add list=BDS_ATIF address=176.235.157.90
 /ip firewall address-list add list=BDS_ATIF address=177.8.171.102
+/ip firewall address-list add list=BDS_ATIF address=177.8.220.106
 /ip firewall address-list add list=BDS_ATIF address=177.43.63.111
 /ip firewall address-list add list=BDS_ATIF address=177.44.192.78
 /ip firewall address-list add list=BDS_ATIF address=177.74.190.9
@@ -2982,6 +3140,7 @@
 /ip firewall address-list add list=BDS_ATIF address=178.128.28.178
 /ip firewall address-list add list=BDS_ATIF address=178.128.69.83
 /ip firewall address-list add list=BDS_ATIF address=178.128.98.159
+/ip firewall address-list add list=BDS_ATIF address=178.128.201.236
 /ip firewall address-list add list=BDS_ATIF address=178.128.247.174
 /ip firewall address-list add list=BDS_ATIF address=178.175.134.70
 /ip firewall address-list add list=BDS_ATIF address=178.254.24.186
@@ -3000,6 +3159,7 @@
 /ip firewall address-list add list=BDS_ATIF address=180.149.125.171
 /ip firewall address-list add list=BDS_ATIF address=180.149.126.3
 /ip firewall address-list add list=BDS_ATIF address=180.154.79.245
+/ip firewall address-list add list=BDS_ATIF address=180.165.4.110
 /ip firewall address-list add list=BDS_ATIF address=180.173.10.25
 /ip firewall address-list add list=BDS_ATIF address=180.175.236.111
 /ip firewall address-list add list=BDS_ATIF address=180.176.67.198
@@ -3011,12 +3171,15 @@
 /ip firewall address-list add list=BDS_ATIF address=180.222.175.86
 /ip firewall address-list add list=BDS_ATIF address=180.232.127.166
 /ip firewall address-list add list=BDS_ATIF address=180.243.9.204
+/ip firewall address-list add list=BDS_ATIF address=180.243.110.183
 /ip firewall address-list add list=BDS_ATIF address=180.250.196.141
 /ip firewall address-list add list=BDS_ATIF address=180.251.121.202
+/ip firewall address-list add list=BDS_ATIF address=180.251.237.108
 /ip firewall address-list add list=BDS_ATIF address=180.253.66.70
 /ip firewall address-list add list=BDS_ATIF address=180.254.200.203
 /ip firewall address-list add list=BDS_ATIF address=181.14.211.68
 /ip firewall address-list add list=BDS_ATIF address=181.21.18.237
+/ip firewall address-list add list=BDS_ATIF address=181.30.42.98
 /ip firewall address-list add list=BDS_ATIF address=181.46.139.101
 /ip firewall address-list add list=BDS_ATIF address=181.46.214.59
 /ip firewall address-list add list=BDS_ATIF address=181.51.91.63
@@ -3024,8 +3187,10 @@
 /ip firewall address-list add list=BDS_ATIF address=181.115.157.136
 /ip firewall address-list add list=BDS_ATIF address=182.23.54.125
 /ip firewall address-list add list=BDS_ATIF address=182.42.147.250
+/ip firewall address-list add list=BDS_ATIF address=182.48.84.89
 /ip firewall address-list add list=BDS_ATIF address=182.50.249.59
 /ip firewall address-list add list=BDS_ATIF address=182.54.14.99
+/ip firewall address-list add list=BDS_ATIF address=182.75.43.115
 /ip firewall address-list add list=BDS_ATIF address=182.76.43.166
 /ip firewall address-list add list=BDS_ATIF address=182.78.20.172
 /ip firewall address-list add list=BDS_ATIF address=182.79.87.218
@@ -3036,6 +3201,7 @@
 /ip firewall address-list add list=BDS_ATIF address=182.180.159.211
 /ip firewall address-list add list=BDS_ATIF address=182.180.163.178
 /ip firewall address-list add list=BDS_ATIF address=182.184.82.216
+/ip firewall address-list add list=BDS_ATIF address=182.186.219.197
 /ip firewall address-list add list=BDS_ATIF address=182.187.137.176
 /ip firewall address-list add list=BDS_ATIF address=182.188.38.170
 /ip firewall address-list add list=BDS_ATIF address=182.215.66.232
@@ -3048,6 +3214,7 @@
 /ip firewall address-list add list=BDS_ATIF address=183.82.7.143
 /ip firewall address-list add list=BDS_ATIF address=183.82.61.217
 /ip firewall address-list add list=BDS_ATIF address=183.82.107.50
+/ip firewall address-list add list=BDS_ATIF address=183.82.115.50
 /ip firewall address-list add list=BDS_ATIF address=183.82.235.5
 /ip firewall address-list add list=BDS_ATIF address=183.93.85.55
 /ip firewall address-list add list=BDS_ATIF address=183.104.60.43
@@ -3084,6 +3251,7 @@
 /ip firewall address-list add list=BDS_ATIF address=184.105.247.196
 /ip firewall address-list add list=BDS_ATIF address=184.105.247.219
 /ip firewall address-list add list=BDS_ATIF address=184.105.247.232
+/ip firewall address-list add list=BDS_ATIF address=184.105.247.235
 /ip firewall address-list add list=BDS_ATIF address=184.105.247.243
 /ip firewall address-list add list=BDS_ATIF address=184.105.247.244
 /ip firewall address-list add list=BDS_ATIF address=184.105.247.248
@@ -3113,6 +3281,7 @@
 /ip firewall address-list add list=BDS_ATIF address=185.91.127.81
 /ip firewall address-list add list=BDS_ATIF address=185.93.89.118
 /ip firewall address-list add list=BDS_ATIF address=185.93.89.133
+/ip firewall address-list add list=BDS_ATIF address=185.93.89.217
 /ip firewall address-list add list=BDS_ATIF address=185.93.89.218
 /ip firewall address-list add list=BDS_ATIF address=185.95.84.71
 /ip firewall address-list add list=BDS_ATIF address=185.98.165.140
@@ -3120,6 +3289,7 @@
 /ip firewall address-list add list=BDS_ATIF address=185.101.219.228
 /ip firewall address-list add list=BDS_ATIF address=185.105.197.242
 /ip firewall address-list add list=BDS_ATIF address=185.108.209.231
+/ip firewall address-list add list=BDS_ATIF address=185.129.216.155
 /ip firewall address-list add list=BDS_ATIF address=185.130.153.110
 /ip firewall address-list add list=BDS_ATIF address=185.132.125.133
 /ip firewall address-list add list=BDS_ATIF address=185.134.99.66
@@ -3143,6 +3313,8 @@
 /ip firewall address-list add list=BDS_ATIF address=185.191.206.85
 /ip firewall address-list add list=BDS_ATIF address=185.195.27.98
 /ip firewall address-list add list=BDS_ATIF address=185.195.56.26
+/ip firewall address-list add list=BDS_ATIF address=185.196.8.103
+/ip firewall address-list add list=BDS_ATIF address=185.196.10.155
 /ip firewall address-list add list=BDS_ATIF address=185.196.11.65
 /ip firewall address-list add list=BDS_ATIF address=185.196.220.41
 /ip firewall address-list add list=BDS_ATIF address=185.196.220.81
@@ -3163,6 +3335,9 @@
 /ip firewall address-list add list=BDS_ATIF address=185.226.197.38
 /ip firewall address-list add list=BDS_ATIF address=185.226.197.39
 /ip firewall address-list add list=BDS_ATIF address=185.226.197.40
+/ip firewall address-list add list=BDS_ATIF address=185.226.197.42
+/ip firewall address-list add list=BDS_ATIF address=185.226.197.43
+/ip firewall address-list add list=BDS_ATIF address=185.226.197.44
 /ip firewall address-list add list=BDS_ATIF address=185.234.229.138
 /ip firewall address-list add list=BDS_ATIF address=185.239.208.123
 /ip firewall address-list add list=BDS_ATIF address=185.242.226.20
@@ -3179,6 +3354,7 @@
 /ip firewall address-list add list=BDS_ATIF address=185.247.137.55
 /ip firewall address-list add list=BDS_ATIF address=185.247.137.56
 /ip firewall address-list add list=BDS_ATIF address=185.247.137.63
+/ip firewall address-list add list=BDS_ATIF address=185.247.137.74
 /ip firewall address-list add list=BDS_ATIF address=185.247.137.76
 /ip firewall address-list add list=BDS_ATIF address=185.247.137.86
 /ip firewall address-list add list=BDS_ATIF address=185.247.137.88
@@ -3193,6 +3369,7 @@
 /ip firewall address-list add list=BDS_ATIF address=185.247.137.167
 /ip firewall address-list add list=BDS_ATIF address=185.247.137.168
 /ip firewall address-list add list=BDS_ATIF address=185.247.137.172
+/ip firewall address-list add list=BDS_ATIF address=185.247.137.173
 /ip firewall address-list add list=BDS_ATIF address=185.247.137.184
 /ip firewall address-list add list=BDS_ATIF address=185.247.137.189
 /ip firewall address-list add list=BDS_ATIF address=185.247.137.200
@@ -3207,6 +3384,7 @@
 /ip firewall address-list add list=BDS_ATIF address=185.247.137.246
 /ip firewall address-list add list=BDS_ATIF address=185.247.137.248
 /ip firewall address-list add list=BDS_ATIF address=185.255.122.19
+/ip firewall address-list add list=BDS_ATIF address=186.4.159.26
 /ip firewall address-list add list=BDS_ATIF address=186.13.39.254
 /ip firewall address-list add list=BDS_ATIF address=186.22.222.166
 /ip firewall address-list add list=BDS_ATIF address=186.67.30.94
@@ -3222,6 +3400,7 @@
 /ip firewall address-list add list=BDS_ATIF address=187.32.48.59
 /ip firewall address-list add list=BDS_ATIF address=187.54.206.90
 /ip firewall address-list add list=BDS_ATIF address=187.144.246.86
+/ip firewall address-list add list=BDS_ATIF address=187.170.158.44
 /ip firewall address-list add list=BDS_ATIF address=187.210.23.98
 /ip firewall address-list add list=BDS_ATIF address=187.226.143.134
 /ip firewall address-list add list=BDS_ATIF address=187.235.37.132
@@ -3240,9 +3419,11 @@
 /ip firewall address-list add list=BDS_ATIF address=188.166.179.156
 /ip firewall address-list add list=BDS_ATIF address=189.8.220.2
 /ip firewall address-list add list=BDS_ATIF address=189.51.38.101
+/ip firewall address-list add list=BDS_ATIF address=189.57.191.214
 /ip firewall address-list add list=BDS_ATIF address=189.68.254.8
 /ip firewall address-list add list=BDS_ATIF address=189.112.4.168
 /ip firewall address-list add list=BDS_ATIF address=189.130.50.234
+/ip firewall address-list add list=BDS_ATIF address=189.142.31.25
 /ip firewall address-list add list=BDS_ATIF address=189.162.222.68
 /ip firewall address-list add list=BDS_ATIF address=189.187.181.12
 /ip firewall address-list add list=BDS_ATIF address=189.237.21.85
@@ -3256,6 +3437,7 @@
 /ip firewall address-list add list=BDS_ATIF address=190.64.90.154
 /ip firewall address-list add list=BDS_ATIF address=190.97.227.129
 /ip firewall address-list add list=BDS_ATIF address=190.110.204.150
+/ip firewall address-list add list=BDS_ATIF address=190.111.226.20
 /ip firewall address-list add list=BDS_ATIF address=190.115.5.17
 /ip firewall address-list add list=BDS_ATIF address=190.120.255.1
 /ip firewall address-list add list=BDS_ATIF address=190.145.231.14
@@ -3264,13 +3446,16 @@
 /ip firewall address-list add list=BDS_ATIF address=190.186.172.230
 /ip firewall address-list add list=BDS_ATIF address=190.202.13.114
 /ip firewall address-list add list=BDS_ATIF address=190.205.59.62
+/ip firewall address-list add list=BDS_ATIF address=191.5.136.105
 /ip firewall address-list add list=BDS_ATIF address=191.5.252.53
 /ip firewall address-list add list=BDS_ATIF address=191.101.157.116
 /ip firewall address-list add list=BDS_ATIF address=192.3.154.48
 /ip firewall address-list add list=BDS_ATIF address=192.81.131.252
+/ip firewall address-list add list=BDS_ATIF address=192.154.254.23
 /ip firewall address-list add list=BDS_ATIF address=192.155.90.118
 /ip firewall address-list add list=BDS_ATIF address=192.155.90.220
 /ip firewall address-list add list=BDS_ATIF address=192.210.133.39
+/ip firewall address-list add list=BDS_ATIF address=192.227.144.39
 /ip firewall address-list add list=BDS_ATIF address=192.227.206.231
 /ip firewall address-list add list=BDS_ATIF address=192.241.155.120
 /ip firewall address-list add list=BDS_ATIF address=193.29.13.50
@@ -3344,6 +3529,7 @@
 /ip firewall address-list add list=BDS_ATIF address=194.187.176.110
 /ip firewall address-list add list=BDS_ATIF address=194.187.176.130
 /ip firewall address-list add list=BDS_ATIF address=194.187.176.140
+/ip firewall address-list add list=BDS_ATIF address=194.187.176.185
 /ip firewall address-list add list=BDS_ATIF address=194.187.176.197
 /ip firewall address-list add list=BDS_ATIF address=194.238.27.137
 /ip firewall address-list add list=BDS_ATIF address=195.9.171.3
@@ -3367,6 +3553,7 @@
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.16
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.18
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.23
+/ip firewall address-list add list=BDS_ATIF address=195.184.76.30
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.31
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.32
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.33
@@ -3379,10 +3566,13 @@
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.77
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.78
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.79
+/ip firewall address-list add list=BDS_ATIF address=195.184.76.83
+/ip firewall address-list add list=BDS_ATIF address=195.184.76.87
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.97
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.98
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.101
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.103
+/ip firewall address-list add list=BDS_ATIF address=195.184.76.106
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.110
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.112
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.113
@@ -3393,6 +3583,8 @@
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.138
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.140
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.143
+/ip firewall address-list add list=BDS_ATIF address=195.184.76.146
+/ip firewall address-list add list=BDS_ATIF address=195.184.76.149
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.155
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.159
 /ip firewall address-list add list=BDS_ATIF address=195.184.76.209
@@ -3416,6 +3608,7 @@
 /ip firewall address-list add list=BDS_ATIF address=196.25.90.94
 /ip firewall address-list add list=BDS_ATIF address=196.32.192.58
 /ip firewall address-list add list=BDS_ATIF address=196.33.226.72
+/ip firewall address-list add list=BDS_ATIF address=196.179.214.28
 /ip firewall address-list add list=BDS_ATIF address=196.189.99.128
 /ip firewall address-list add list=BDS_ATIF address=196.219.12.26
 /ip firewall address-list add list=BDS_ATIF address=196.251.66.3
@@ -3454,6 +3647,7 @@
 /ip firewall address-list add list=BDS_ATIF address=196.251.80.129
 /ip firewall address-list add list=BDS_ATIF address=196.251.80.136
 /ip firewall address-list add list=BDS_ATIF address=196.251.80.142
+/ip firewall address-list add list=BDS_ATIF address=196.251.80.150
 /ip firewall address-list add list=BDS_ATIF address=196.251.80.152
 /ip firewall address-list add list=BDS_ATIF address=196.251.80.157
 /ip firewall address-list add list=BDS_ATIF address=196.251.80.158
@@ -3563,6 +3757,7 @@
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.43
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.44
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.46
+/ip firewall address-list add list=BDS_ATIF address=198.235.24.48
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.51
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.52
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.53
@@ -3582,6 +3777,7 @@
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.83
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.84
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.85
+/ip firewall address-list add list=BDS_ATIF address=198.235.24.86
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.87
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.88
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.89
@@ -3599,12 +3795,14 @@
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.113
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.114
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.115
+/ip firewall address-list add list=BDS_ATIF address=198.235.24.117
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.119
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.121
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.122
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.123
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.124
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.125
+/ip firewall address-list add list=BDS_ATIF address=198.235.24.127
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.138
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.141
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.142
@@ -3653,6 +3851,7 @@
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.233
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.234
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.236
+/ip firewall address-list add list=BDS_ATIF address=198.235.24.243
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.244
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.246
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.247
@@ -3663,7 +3862,9 @@
 /ip firewall address-list add list=BDS_ATIF address=198.235.24.255
 /ip firewall address-list add list=BDS_ATIF address=199.45.154.114
 /ip firewall address-list add list=BDS_ATIF address=199.45.154.116
+/ip firewall address-list add list=BDS_ATIF address=199.45.154.117
 /ip firewall address-list add list=BDS_ATIF address=199.45.154.122
+/ip firewall address-list add list=BDS_ATIF address=199.45.154.132
 /ip firewall address-list add list=BDS_ATIF address=199.45.154.134
 /ip firewall address-list add list=BDS_ATIF address=199.45.154.135
 /ip firewall address-list add list=BDS_ATIF address=199.45.154.139
@@ -3675,6 +3876,7 @@
 /ip firewall address-list add list=BDS_ATIF address=199.45.154.159
 /ip firewall address-list add list=BDS_ATIF address=199.45.155.70
 /ip firewall address-list add list=BDS_ATIF address=199.45.155.71
+/ip firewall address-list add list=BDS_ATIF address=199.45.155.74
 /ip firewall address-list add list=BDS_ATIF address=199.45.155.79
 /ip firewall address-list add list=BDS_ATIF address=199.45.155.82
 /ip firewall address-list add list=BDS_ATIF address=199.45.155.83
@@ -3690,7 +3892,9 @@
 /ip firewall address-list add list=BDS_ATIF address=199.45.155.108
 /ip firewall address-list add list=BDS_ATIF address=200.46.245.114
 /ip firewall address-list add list=BDS_ATIF address=200.49.36.74
+/ip firewall address-list add list=BDS_ATIF address=200.54.3.156
 /ip firewall address-list add list=BDS_ATIF address=200.54.186.250
+/ip firewall address-list add list=BDS_ATIF address=200.59.155.172
 /ip firewall address-list add list=BDS_ATIF address=200.60.78.177
 /ip firewall address-list add list=BDS_ATIF address=200.75.2.138
 /ip firewall address-list add list=BDS_ATIF address=200.80.111.132
@@ -3721,6 +3925,7 @@
 /ip firewall address-list add list=BDS_ATIF address=201.248.58.186
 /ip firewall address-list add list=BDS_ATIF address=201.248.67.246
 /ip firewall address-list add list=BDS_ATIF address=202.51.97.204
+/ip firewall address-list add list=BDS_ATIF address=202.51.102.86
 /ip firewall address-list add list=BDS_ATIF address=202.53.94.246
 /ip firewall address-list add list=BDS_ATIF address=202.55.133.98
 /ip firewall address-list add list=BDS_ATIF address=202.55.180.186
@@ -3768,6 +3973,7 @@
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.58
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.59
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.60
+/ip firewall address-list add list=BDS_ATIF address=205.210.31.64
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.65
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.67
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.69
@@ -3787,6 +3993,7 @@
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.93
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.95
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.96
+/ip firewall address-list add list=BDS_ATIF address=205.210.31.98
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.99
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.100
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.105
@@ -3794,6 +4001,7 @@
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.110
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.111
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.129
+/ip firewall address-list add list=BDS_ATIF address=205.210.31.131
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.132
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.136
 /ip firewall address-list add list=BDS_ATIF address=205.210.31.137
@@ -3851,6 +4059,8 @@
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.38
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.39
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.40
+/ip firewall address-list add list=BDS_ATIF address=206.168.34.44
+/ip firewall address-list add list=BDS_ATIF address=206.168.34.45
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.46
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.47
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.49
@@ -3868,12 +4078,14 @@
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.69
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.70
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.72
+/ip firewall address-list add list=BDS_ATIF address=206.168.34.73
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.74
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.75
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.77
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.79
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.82
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.83
+/ip firewall address-list add list=BDS_ATIF address=206.168.34.84
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.85
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.86
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.87
@@ -3882,6 +4094,7 @@
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.92
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.93
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.95
+/ip firewall address-list add list=BDS_ATIF address=206.168.34.112
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.115
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.116
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.120
@@ -3898,6 +4111,7 @@
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.221
 /ip firewall address-list add list=BDS_ATIF address=206.168.34.222
 /ip firewall address-list add list=BDS_ATIF address=206.189.99.83
+/ip firewall address-list add list=BDS_ATIF address=206.189.124.216
 /ip firewall address-list add list=BDS_ATIF address=206.189.138.110
 /ip firewall address-list add list=BDS_ATIF address=206.189.185.242
 /ip firewall address-list add list=BDS_ATIF address=206.189.203.69
@@ -3921,6 +4135,7 @@
 /ip firewall address-list add list=BDS_ATIF address=209.38.136.82
 /ip firewall address-list add list=BDS_ATIF address=209.38.144.105
 /ip firewall address-list add list=BDS_ATIF address=209.38.206.136
+/ip firewall address-list add list=BDS_ATIF address=209.38.224.13
 /ip firewall address-list add list=BDS_ATIF address=209.151.155.48
 /ip firewall address-list add list=BDS_ATIF address=209.159.149.39
 /ip firewall address-list add list=BDS_ATIF address=210.2.130.106
@@ -3944,6 +4159,9 @@
 /ip firewall address-list add list=BDS_ATIF address=213.32.32.94
 /ip firewall address-list add list=BDS_ATIF address=213.87.202.197
 /ip firewall address-list add list=BDS_ATIF address=213.109.233.133
+/ip firewall address-list add list=BDS_ATIF address=213.109.234.9
+/ip firewall address-list add list=BDS_ATIF address=213.135.102.70
+/ip firewall address-list add list=BDS_ATIF address=213.169.137.211
 /ip firewall address-list add list=BDS_ATIF address=213.195.113.53
 /ip firewall address-list add list=BDS_ATIF address=213.209.150.64
 /ip firewall address-list add list=BDS_ATIF address=213.209.150.68
@@ -3963,6 +4181,7 @@
 /ip firewall address-list add list=BDS_ATIF address=216.218.206.102
 /ip firewall address-list add list=BDS_ATIF address=217.12.116.46
 /ip firewall address-list add list=BDS_ATIF address=217.32.220.236
+/ip firewall address-list add list=BDS_ATIF address=217.76.44.36
 /ip firewall address-list add list=BDS_ATIF address=217.76.49.252
 /ip firewall address-list add list=BDS_ATIF address=217.154.17.230
 /ip firewall address-list add list=BDS_ATIF address=217.154.82.33
@@ -4024,6 +4243,7 @@
 /ip firewall address-list add list=BDS_ATIF address=219.153.113.106
 /ip firewall address-list add list=BDS_ATIF address=219.157.74.6
 /ip firewall address-list add list=BDS_ATIF address=220.79.230.143
+/ip firewall address-list add list=BDS_ATIF address=220.167.232.37
 /ip firewall address-list add list=BDS_ATIF address=220.167.232.123
 /ip firewall address-list add list=BDS_ATIF address=220.197.51.189
 /ip firewall address-list add list=BDS_ATIF address=220.197.51.201
